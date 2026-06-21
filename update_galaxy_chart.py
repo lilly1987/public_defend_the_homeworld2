@@ -10,6 +10,7 @@ FIELDS_TO_SET = {
     "chance_of_second_planet_bonus": 1.0,
     "chance_of_loot": 1.0,
     "has_artifact": True,
+    "loot_level": 2,
 }
 
 EXCLUDED_CHILD_IDS = {2,11, 12, 17, 18, 25, 26}
