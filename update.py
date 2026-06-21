@@ -1,3 +1,4 @@
+import copy
 import json
 from pathlib import Path
 
@@ -26,6 +27,256 @@ STARTING_TRACK_LEVELS = {
     "research": 5,
 }
 
+starting_units_to_any_player_and_gravity_well1_id=2
+starting_units_to_any_player_and_gravity_well1=        {
+            "faction_allowed": "dlc_trader_loyalist",
+            "faction_spawn_units": [
+                {
+                    "player_index": 0,
+                    "gravity_well_id": 2,# id 입력
+                    "spawn_units": {
+                        "required_units": [
+                            {
+                                "unit": "trader_starbase",
+                                "count": [
+                                    10,
+                                    10
+                                ],
+                                "options": {
+                                    "items": [
+                                        "trader_starbase_structural_integrity_0",
+                                        "trader_starbase_unlock_beam_weapon",
+                                        "trader_starbase_planetary_shield_array",
+                                        "trader_starbase_hangar_0"
+                                    ]
+                                }
+                            },
+                            {
+                                "unit": "trader_gauss_defense_structure",
+                                "count": [
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
+                                "unit": "trader_hangar_defense_structure",
+                                "count": [
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
+                                "unit": "trader_phase_jump_inhibitor_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            }
+                        ]
+                    },
+                    "spawn_units_in_formation": [
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_battle_capital_ship",
+                                    "count": [
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "unit": "trader_heavy_cruiser",
+                                    "count": [
+                                        10,
+                                        10
+                                    ]
+                                },
+                                {
+                                    "unit": "trader_carrier_cruiser",
+                                    "count": [
+                                        6,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "unit": "trader_light_frigate",
+                                    "count": [
+                                        10,
+                                        10
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_autocannon_defense_structure",
+                                    "count": [
+                                        2,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_autocannon_defense_structure",
+                                    "count": [
+                                        2,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_autocannon_defense_structure",
+                                    "count": [
+                                        2,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_autocannon_defense_structure",
+                                    "count": [
+                                        2,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "required_units": [
+                                {
+                                    "unit": "trader_autocannon_defense_structure",
+                                    "count": [
+                                        2,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+
+                    ]
+                }
+            ]
+        }
+
+starting_units_to_any_player_and_gravity_well=        {
+            "faction_allowed": "dlc_trader_loyalist",
+            "faction_spawn_units": [
+                {
+                    "player_index": 0,
+                    "gravity_well_id": 2,
+                    "spawn_units": {
+                        "required_units": [
+                            {
+                                "unit": "trader_frigate_factory_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_civilian_research_lab_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_military_research_lab_structure",
+                                "count": [
+                                    2,
+                                    2
+                                ]
+                            },
+                            {
+                                "unit": "trader_culture_center_structure",# 문화
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_exotic_factory_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_retrofit_bay_structure", # 개조
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_starbase",
+                                "count": [
+                                    2,
+                                    2
+                                ],
+                                "options": {
+                                    "items": [
+                                        "trader_starbase_structural_integrity_0",
+                                        "trader_starbase_unlock_beam_weapon",
+                                        "trader_starbase_planetary_shield_array",
+                                        "trader_starbase_hangar_0"
+                                    ]
+                                }
+                            },
+                            {
+                                "unit": "trader_gauss_defense_structure",
+                                "count": [
+                                    8,
+                                    8
+                                ]
+                            },
+                            {
+                                "unit": "trader_hangar_defense_structure",
+                                "count": [
+                                    4,
+                                    4
+                                ]
+                            },
+                            {
+                                "unit": "trader_autocannon_defense_structure",
+                                "count": [
+                                    6,
+                                    6
+                                ]
+                            }
+
+                        ]
+                    },
+                }
+            ]
+        }
+
+
+def build_starting_units_list(planet_ids):
+    units = []
+    first_entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well1)
+    first_entry["faction_spawn_units"][0]["gravity_well_id"] = starting_units_to_any_player_and_gravity_well1_id
+    units.append(first_entry)
+
+    for planet_id in planet_ids:
+        if planet_id == starting_units_to_any_player_and_gravity_well1_id:
+            continue
+        else:
+            entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well)
+        entry["faction_spawn_units"][0]["gravity_well_id"] = planet_id
+        units.append(entry)
+    return units
+
 
 def extract_player_zero_ids(data):
     for root_node in data.get("root_nodes", []):
@@ -38,13 +289,7 @@ def extract_player_zero_ids(data):
     return []
 
 
-def update_scenario_planets(planet_ids):
-    if not SCENARIO_FILE.exists():
-        raise FileNotFoundError(f"Could not find {SCENARIO_FILE}")
-
-    with SCENARIO_FILE.open("r", encoding="utf-8") as f:
-        scenario_data = json.load(f)
-
+def update_scenario_data(scenario_data, planet_ids):
     scenario_data["planets"] = [
         {
             "gravity_well_id": planet_id,
@@ -53,11 +298,7 @@ def update_scenario_planets(planet_ids):
         for planet_id in planet_ids
     ]
 
-    SCENARIO_FILE.replace(BACKUP_SCENARIO_FILE)
-    with SCENARIO_FILE.open("w", encoding="utf-8") as f:
-        json.dump(scenario_data, f, indent=4, ensure_ascii=False)
-
-    print(f"Updated {SCENARIO_FILE} with {len(planet_ids)} planets. Backup created at {BACKUP_SCENARIO_FILE}")
+    # scenario_data["starting_units_to_any_player_and_gravity_well"] = build_starting_units_list(planet_ids)
 
 
 def main() -> None:
@@ -93,11 +334,20 @@ def main() -> None:
 
     print(f"Updated galaxy_chart.json and created backup at {BACKUP_FILE}")
 
+    if not SCENARIO_FILE.exists():
+        raise FileNotFoundError(f"Could not find {SCENARIO_FILE}")
+
+    with SCENARIO_FILE.open("r", encoding="utf-8") as f:
+        scenario_data = json.load(f)
+
     planet_ids = extract_player_zero_ids(data)
-    if planet_ids:
-        update_scenario_planets(planet_ids)
-    else:
-        print("No player_index 0 child node IDs found in galaxy_chart.json; .unique_scenario was not updated.")
+    update_scenario_data(scenario_data, planet_ids)
+
+    SCENARIO_FILE.replace(BACKUP_SCENARIO_FILE)
+    with SCENARIO_FILE.open("w", encoding="utf-8") as f:
+        json.dump(scenario_data, f, indent=4, ensure_ascii=False)
+
+    print(f"Updated {SCENARIO_FILE} and created backup at {BACKUP_SCENARIO_FILE}")
 
 
 if __name__ == "__main__":

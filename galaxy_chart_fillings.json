@@ -12,7 +12,7 @@
         {
             "name": "terran_planet_lilly",
             "filling": {
-                "editor_color": "ffff69b4",
+                "editor_color": "ff00ffff",
                 "is_primary_fixture_player_home_planet": true,
                 "primary_random_fixture_filling_name": "terran_planet_lilly",
                 "override_militia_supply": [1000, 1000]
