@@ -18,7 +18,7 @@
             "child_nodes": [
                 {
                     "id": 2,
-                    "filling_name": "player_home_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2644.367188,
                         1302.233276
@@ -36,7 +36,7 @@
                 },
                 {
                     "id": 6,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2422.275146,
                         1434.301025
@@ -54,7 +54,7 @@
                 },
                 {
                     "id": 7,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2812.120361,
                         1191.55603
@@ -72,7 +72,7 @@
                 },
                 {
                     "id": 8,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2821.035645,
                         1416.66394
@@ -90,7 +90,7 @@
                 },
                 {
                     "id": 9,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2984.193604,
                         1073.322876
@@ -108,7 +108,7 @@
                 },
                 {
                     "id": 10,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2999.645752,
                         1299.957764
@@ -154,7 +154,7 @@
                 },
                 {
                     "id": 13,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2439.05542,
                         1196.019653
@@ -172,7 +172,7 @@
                 },
                 {
                     "id": 14,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2608.395264,
                         861.874207
@@ -190,7 +190,7 @@
                 },
                 {
                     "id": 15,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2619.964844,
                         1077.764648
@@ -208,7 +208,7 @@
                 },
                 {
                     "id": 16,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2428.993408,
                         972.440125
@@ -254,7 +254,7 @@
                 },
                 {
                     "id": 19,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2625.537354,
                         1538.047363
@@ -272,7 +272,7 @@
                 },
                 {
                     "id": 20,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2650.909424,
                         1744.677734
@@ -290,7 +290,7 @@
                 },
                 {
                     "id": 21,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2800.08252,
                         953.369812
@@ -305,7 +305,7 @@
                 },
                 {
                     "id": 22,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2998.969238,
                         1527.427612
@@ -348,7 +348,7 @@
                 },
                 {
                     "id": 59,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2843.311035,
                         1822.337158
@@ -366,7 +366,7 @@
                 },
                 {
                     "id": 60,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2814.136475,
                         1624.949463
@@ -384,7 +384,7 @@
                 },
                 {
                     "id": 62,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2435.429199,
                         1662.487305
@@ -402,7 +402,7 @@
                 },
                 {
                     "id": 75,
-                    "filling_name": "terran_planet_lilly",
+                    "filling_name": "magnetic_planet_lilly",
                     "position": [
                         -2201.35791,
                         1424.332275

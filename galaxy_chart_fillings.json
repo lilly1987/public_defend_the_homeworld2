@@ -2,15 +2,31 @@
     "version": 1,
     "node_fillings": [
         {
+            "name": "magnetic_planet_lilly",
+            "filling": {
+                "editor_color": "ffff69b4",
+                "is_primary_fixture_player_home_planet": false,
+                "primary_random_fixture_filling_name": "magnetic_planet_lilly",
+                "override_militia_supply": [1000, 1000]
+            }
+        },
+        {
             "name": "terran_planet_lilly",
             "filling": {
                 "editor_color": "ffff69b4",
+                "is_primary_fixture_player_home_planet": true,
                 "primary_random_fixture_filling_name": "terran_planet_lilly",
                 "override_militia_supply": [1000, 1000]
             }
         }
     ],
     "fixture_fillings": [
+        {
+            "name": "magnetic_planet_lilly",
+            "filling": {
+                "entity_definition": "magnetic_planet_lilly"
+            }
+        },
         {
             "name": "terran_planet_lilly",
             "filling": {
@@ -19,6 +35,16 @@
         }
     ],
     "random_fixture_fillings": [
+        {
+            "name": "magnetic_planet_lilly",
+            "filling": {
+                "items": [
+                    {
+                        "name": "magnetic_planet_lilly"
+                    }
+                ]
+            }
+        },
         {
             "name": "terran_planet_lilly",
             "filling": {

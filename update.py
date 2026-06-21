@@ -7,7 +7,7 @@ SCENARIO_FILE = Path(__file__).with_name(".unique_scenario")
 BACKUP_SCENARIO_FILE = SCENARIO_FILE.with_suffix(".unique_scenario.bak")
 
 FIELDS_TO_SET = {
-    "filling_name": "terran_planet_lilly",
+    "filling_name": "magnetic_planet_lilly",
     "chance_of_first_planet_bonus": 1.0,
     "chance_of_second_planet_bonus": 1.0,
     "chance_of_loot": 1.0,
@@ -22,7 +22,7 @@ STARTING_TRACK_LEVELS = {
     "logistics": 5,
     "defense": 5,
     "commerce": 5,
-    # "mining": 5,
+    "mining": 5,
     "research": 5,
 }
 
