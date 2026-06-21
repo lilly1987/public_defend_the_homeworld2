@@ -1,3 +1,33 @@
 {
-    "version": 1
+    "version": 1,
+    "node_fillings": [
+        {
+            "name": "terran_planet_lilly",
+            "filling": {
+                "editor_color": "ffff69b4",
+                "primary_random_fixture_filling_name": "terran_planet_lilly",
+                "override_militia_supply": [1000, 1000]
+            }
+        }
+    ],
+    "fixture_fillings": [
+        {
+            "name": "terran_planet_lilly",
+            "filling": {
+                "entity_definition": "terran_planet_lilly"
+            }
+        }
+    ],
+    "random_fixture_fillings": [
+        {
+            "name": "terran_planet_lilly",
+            "filling": {
+                "items": [
+                    {
+                        "name": "terran_planet_lilly"
+                    }
+                ]
+            }
+        }
+    ]
 }

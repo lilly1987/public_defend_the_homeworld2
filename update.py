@@ -7,7 +7,7 @@ SCENARIO_FILE = Path(__file__).with_name(".unique_scenario")
 BACKUP_SCENARIO_FILE = SCENARIO_FILE.with_suffix(".unique_scenario.bak")
 
 FIELDS_TO_SET = {
-    "filling_name": "random_super_rich_planet",
+    "filling_name": "terran_planet_lilly",
     "chance_of_first_planet_bonus": 1.0,
     "chance_of_second_planet_bonus": 1.0,
     "chance_of_loot": 1.0,
@@ -17,6 +17,7 @@ FIELDS_TO_SET = {
 
 EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
 
+# 50 안먹힘
 STARTING_TRACK_LEVELS = {
     "logistics": 5,
     "defense": 5,

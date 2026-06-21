@@ -36,7 +36,7 @@
                 },
                 {
                     "id": 6,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2422.275146,
                         1434.301025
@@ -49,12 +49,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 7,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2812.120361,
                         1191.55603
@@ -67,12 +67,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 8,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2821.035645,
                         1416.66394
@@ -85,12 +85,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 9,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2984.193604,
                         1073.322876
@@ -103,12 +103,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 10,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2999.645752,
                         1299.957764
@@ -121,8 +121,8 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 11,
@@ -154,7 +154,7 @@
                 },
                 {
                     "id": 13,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2439.05542,
                         1196.019653
@@ -167,12 +167,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 14,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2608.395264,
                         861.874207
@@ -185,12 +185,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 15,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2619.964844,
                         1077.764648
@@ -203,12 +203,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 16,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2428.993408,
                         972.440125
@@ -221,8 +221,8 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 17,
@@ -254,7 +254,7 @@
                 },
                 {
                     "id": 19,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2625.537354,
                         1538.047363
@@ -267,12 +267,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 20,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2650.909424,
                         1744.677734
@@ -285,12 +285,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 21,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2800.08252,
                         953.369812
@@ -300,12 +300,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 22,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2998.969238,
                         1527.427612
@@ -315,8 +315,8 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 25,
@@ -348,7 +348,7 @@
                 },
                 {
                     "id": 59,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2843.311035,
                         1822.337158
@@ -361,12 +361,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 60,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2814.136475,
                         1624.949463
@@ -379,12 +379,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 62,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2435.429199,
                         1662.487305
@@ -397,12 +397,12 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true,
-                    "loot_level": 2
+                    "loot_level": 2,
+                    "has_artifact": true
                 },
                 {
                     "id": 75,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "terran_planet_lilly",
                     "position": [
                         -2201.35791,
                         1424.332275
