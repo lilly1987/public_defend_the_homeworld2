@@ -116,11 +116,11 @@
             "random_fixture_filling": "random_volcanic_planet",
             "starting_track_levels":
             {
-                "logistics": 50,
-                "defense": 50,
-                "commerce": 50,
-                "mining": 50,
-                "research": 50
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
             },
             "starting_is_colonized": true,
             "starting_militia_supply": 0
@@ -2639,13 +2639,13 @@
                     [
                         {
                             "domain":"civilian",
-                            "unlocked_tier": 5,
-                            "unlock_all_research_through_tier": 5
+                            "unlocked_tier": 3,
+                            "unlock_all_research_through_tier": 1
                         },
                         {
                             "domain":"military",
-                            "unlocked_tier": 5,
-                            "unlock_all_research_through_tier": 5
+                            "unlocked_tier": 3,
+                            "unlock_all_research_through_tier": 1
                         }
                     ],
                     "other_unlocked_research":[
@@ -2669,127 +2669,6 @@
     ],
     "planets":
     [
-        {
-            "gravity_well_id": 6,
-            "starting_track_levels":
-            {
-                "mining": 4
-            }
-        },
-        {
-            "gravity_well_id": 7,
-            "starting_track_levels":
-            {
-                "logistics": 1,
-                "defense": 2,
-                "commerce": 1,
-                "mining": 2
-            }
-        },
-        {
-            "gravity_well_id": 8,
-            "starting_track_levels":
-            {
-                "defense": 1,
-                "commerce": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 9,
-            "starting_track_levels":
-            {
-                "defense": 1,
-                "mining": 2
-            }
-        },
-        {
-            "gravity_well_id": 10,
-            "starting_track_levels":
-            {
-                "logistics": 1,
-                "defense": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 13,
-            "starting_track_levels":
-            {
-                "logistics": 1,
-                "defense": 1,
-                "commerce": 2,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 14,
-            "starting_track_levels":
-            {
-                "logistics": 1,
-                "defense": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 15,
-            "starting_track_levels":
-            {
-                "logistics": 1,
-                "defense": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 16,
-            "starting_track_levels":
-            {
-                "defense": 1,
-                "commerce": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 19,
-            "starting_track_levels":
-            {
-                "logistics": 2,
-                "defense": 1,
-                "commerce": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 20,
-            "starting_track_levels":
-            {
-                "logistics": 3,
-                "defense": 2
-            }
-        },
-        {
-            "gravity_well_id": 59,
-            "starting_track_levels":
-            {
-                "logistics": 1
-            }
-        },
-        {
-            "gravity_well_id": 60,
-            "starting_track_levels":
-            {
-                "defense": 1,
-                "mining": 1
-            }
-        },
-        {
-            "gravity_well_id": 62,
-            "starting_track_levels":
-            {
-                "defense": 1,
-                "mining": 2
-            }
-        }
     ],
     "victory_type_gui":
     {

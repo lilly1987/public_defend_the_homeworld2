@@ -18,11 +18,11 @@ FIELDS_TO_SET = {
 EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
 
 STARTING_TRACK_LEVELS = {
-    "logistics": 50,
-    "defense": 50,
-    "commerce": 50,
-    "mining": 50,
-    "research": 50,
+    "logistics": 5,
+    "defense": 5,
+    "commerce": 5,
+    # "mining": 5,
+    "research": 5,
 }
 
 

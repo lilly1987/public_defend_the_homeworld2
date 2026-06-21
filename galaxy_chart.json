@@ -31,6 +31,7 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
+                    "loot_level": 2,
                     "has_artifact": true
                 },
                 {
