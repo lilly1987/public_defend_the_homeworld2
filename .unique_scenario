@@ -3004,15 +3004,15 @@
                     "required_units":[
                     {
                         "unit": "trader_gauss_defense_structure",
-                        "count": [18, 18]
+                        "count": [36, 36]
                     },
                     {
                         "unit": "trader_hangar_defense_structure",
-                        "count": [18, 18]
+                        "count": [36, 36]
                     },
                     {
                         "unit": "trader_starbase",
-                        "count": [18, 18],
+                        "count": [36, 36],
                         "options": {
                             "items": [
                                 "trader_starbase_structural_integrity_0",
@@ -3064,6 +3064,27 @@
                         "unit": "trader_autocannon_defense_structure",
                         "count": [6, 6]
                     }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
                 }]
             }]
         }
@@ -3087,6 +3108,17 @@
                         }
                     ],
                     "other_unlocked_research": [
+        "dlc2_trader_unlock_faction_victory_item",
+        "dlc2_trader_unlock_loyalist_super_capital_ship",
+        "dlc2_trader_unlock_rebel_super_capital_ship",
+        "dlc2_trader_upgrade_loyalist_super_limit_0",
+        "dlc2_trader_upgrade_loyalist_super_limit_1",
+        "dlc2_trader_upgrade_rebel_super_limit_0",
+        "dlc2_trader_upgrade_rebel_super_limit_1",
+        "dlc_trader_triple_fortresses",
+        "dlc_trader_unlock_armored_citadel_unit_item",
+        "dlc_trader_unlock_bastion_module_unit_item",
+        "dlc_trader_unlock_unassailable_fortress_unit_item",
 "trader_antimatter_0",
 "trader_antimatter_1",
 "trader_asteroid_planet_credit_rate",
