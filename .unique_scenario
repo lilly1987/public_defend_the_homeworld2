@@ -2639,13 +2639,13 @@
                     [
                         {
                             "domain":"civilian",
-                            "unlocked_tier": 3,
-                            "unlock_all_research_through_tier": 1
+                            "unlocked_tier": 5,
+                            "unlock_all_research_through_tier": 5
                         },
                         {
                             "domain":"military",
-                            "unlocked_tier": 3,
-                            "unlock_all_research_through_tier": 1
+                            "unlocked_tier": 5,
+                            "unlock_all_research_through_tier": 5
                         }
                     ],
                     "other_unlocked_research":[
