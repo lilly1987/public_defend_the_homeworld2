@@ -3003,20 +3003,24 @@
                 "spawn_units": {
                     "required_units":[
                     {
-                        "unit": "trader_gauss_defense_structure",
-                        "count": [36, 36]
-                    },
-                    {
-                        "unit": "trader_hangar_defense_structure",
-                        "count": [36, 36]
-                    },
-                    {
                         "unit": "trader_frigate_factory_structure",
                         "count": [25, 25]
                     },
                     {
                         "unit": "trader_capital_ship_factory_structure",
                         "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_population_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_trade_port_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_loyalist_titan_factory_structure",
+                        "count": [1, 1]
                     },
                     {
                         "unit": "trader_starbase",
@@ -3091,20 +3095,16 @@
                         "count": [36, 36]
                     },
                     {
+                        "unit": "trader_hangar_defense_structure",
+                        "count": [36, 36]
+                    },
+                    {
                         "unit": "trader_retrofit_bay_structure",
                         "count": [36, 36]
                     },
                     {
-                        "unit": "trader_population_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_trade_port_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_loyalist_titan_factory_structure",
-                        "count": [1, 1]
+                        "unit": "trader_gauss_defense_structure",
+                        "count": [36, 36]
                     }
                     ]
                 },
@@ -3121,23 +3121,23 @@
                     },
                     {
                         "unit": "trader_battle_capital_ship",
-                        "count": [1, 1]
+                        "count": [3, 3]
                     },
                     {
                         "unit": "trader_colony_capital_ship",
-                        "count": [1, 1]
+                        "count": [3, 3]
                     },
                     {
                         "unit": "trader_support_capital_ship",
-                        "count": [1, 1]
+                        "count": [3, 3]
                     },
                     {
                         "unit": "trader_carrier_capital_ship",
-                        "count": [1, 1]
+                        "count": [3, 3]
                     },
                     {
                         "unit": "trader_siege_capital_ship",
-                        "count": [1, 1]
+                        "count": [3, 3]
                     },
                     {
                         "unit": "trader_robotics_cruiser",
@@ -3174,6 +3174,48 @@
                     {
                         "unit": "trader_antiarmor_frigate",
                         "count": [10, 10]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
                     }]
                 },
                 {
@@ -3278,13 +3320,13 @@
                     "domains_definitions": [
                         {
                             "domain": "civilian",
-                            "unlocked_tier": 3,
-                            "unlock_all_research_through_tier": 1
+                            "unlocked_tier": 4,
+                            "unlock_all_research_through_tier": 4
                         },
                         {
                             "domain": "military",
-                            "unlocked_tier": 3,
-                            "unlock_all_research_through_tier": 1
+                            "unlocked_tier": 4,
+                            "unlock_all_research_through_tier": 4
                         }
                     ],
                     "other_unlocked_research": [
