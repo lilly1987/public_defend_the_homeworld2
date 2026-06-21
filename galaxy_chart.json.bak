@@ -29,11 +29,12 @@
                     "ignore_orbit_overlap_checks": true,
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0
+                    "chance_of_loot": 1.0,
+                    "has_artifact": true
                 },
                 {
                     "id": 6,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_crystalline_planet",
                     "position": [
                         -2422.275146,
                         1434.301025
@@ -50,7 +51,7 @@
                 },
                 {
                     "id": 7,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_volcanic_planet",
                     "position": [
                         -2812.120361,
                         1191.55603
@@ -67,7 +68,7 @@
                 },
                 {
                     "id": 8,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_ice_moon_planet",
                     "position": [
                         -2821.035645,
                         1416.66394
@@ -84,7 +85,7 @@
                 },
                 {
                     "id": 9,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_volcanic_moon_planet",
                     "position": [
                         -2984.193604,
                         1073.322876
@@ -101,7 +102,7 @@
                 },
                 {
                     "id": 10,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_asteroid_line_cluster",
                     "position": [
                         -2999.645752,
                         1299.957764
@@ -146,7 +147,7 @@
                 },
                 {
                     "id": 13,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_ice_planet",
                     "position": [
                         -2439.05542,
                         1196.019653
@@ -163,7 +164,7 @@
                 },
                 {
                     "id": 14,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_asteroid",
                     "position": [
                         -2608.395264,
                         861.874207
@@ -180,7 +181,7 @@
                 },
                 {
                     "id": 15,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_ice_asteroid",
                     "position": [
                         -2619.964844,
                         1077.764648
@@ -197,7 +198,7 @@
                 },
                 {
                     "id": 16,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_moon_planet",
                     "position": [
                         -2428.993408,
                         972.440125
@@ -242,7 +243,7 @@
                 },
                 {
                     "id": 19,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_barren_planet",
                     "position": [
                         -2625.537354,
                         1538.047363
@@ -259,7 +260,7 @@
                 },
                 {
                     "id": 20,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_gas_giant_planet",
                     "position": [
                         -2650.909424,
                         1744.677734
@@ -276,7 +277,7 @@
                 },
                 {
                     "id": 21,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_oceanic_planet",
                     "position": [
                         -2800.08252,
                         953.369812
@@ -290,7 +291,7 @@
                 },
                 {
                     "id": 22,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_swamp_planet",
                     "position": [
                         -2998.969238,
                         1527.427612
@@ -332,7 +333,7 @@
                 },
                 {
                     "id": 59,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_ship_graveyard_planet",
                     "position": [
                         -2843.311035,
                         1822.337158
@@ -349,7 +350,7 @@
                 },
                 {
                     "id": 60,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_ice_asteroid",
                     "position": [
                         -2814.136475,
                         1624.949463
@@ -366,7 +367,7 @@
                 },
                 {
                     "id": 62,
-                    "filling_name": "random_super_rich_planet",
+                    "filling_name": "random_volcanic_moon_planet",
                     "position": [
                         -2435.429199,
                         1662.487305
