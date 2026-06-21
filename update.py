@@ -16,7 +16,7 @@ FIELDS_TO_SET = {
     "loot_level": 2,
 }
 
-EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
+EXCLUDED_CHILD_IDS = {2,75, 11, 12, 17, 18, 25, 26}
 
 # 50 안먹힘
 STARTING_TRACK_LEVELS = {

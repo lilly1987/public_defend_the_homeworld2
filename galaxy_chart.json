@@ -29,6 +29,21 @@
                     "has_artifact": true
                 },
                 {
+                    "id": 75,
+                    "filling_name": "terran_planet_lilly",
+                    "position": [-4199.912598, 1402.086304],
+                    "ownership": {
+                        "player_index": 0
+                    },
+                    "orbit_speed_scalar": 0.0,
+                    "ignore_orbit_overlap_checks": true,
+                    "chance_of_first_planet_bonus": 1.0,
+                    "chance_of_second_planet_bonus": 1.0,
+                    "chance_of_loot": 1.0,
+                    "loot_level": 2,
+                    "has_artifact": true
+                },
+                {
                     "id": 11,
                     "filling_name": "random_space_junk_fixture",
                     "position": [436.032715, 1703.673096],
@@ -92,21 +107,6 @@
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 75,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [-4199.912598, 1402.086304],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
                     "has_artifact": true
                 },
                 {
