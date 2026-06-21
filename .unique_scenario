@@ -3021,6 +3021,10 @@
                                 "trader_starbase_hangar_0"
                             ]
                         }
+                    },
+                    {
+                        "unit": "trader_phase_jump_inhibitor_structure",
+                        "count": [36, 36]
                     }
                     ]
                 },
@@ -3086,6 +3090,30 @@
                         "count": [6, 6]
                     }]
                 }]
+            }]
+        },
+        {
+            "faction_allowed": "dlc_trader_loyalist",
+            "faction_spawn_units": [
+            {
+                "player_index": 0,
+                "gravity_well_id": 75,
+                "spawn_units": {
+                    "required_units":[
+                    {
+                        "unit": "trader_civilian_research_lab_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_military_research_lab_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_frigate_factory_structure",
+                        "count": [25, 25]
+                    }
+                    ]
+                }
             }]
         }
     ],
