@@ -3011,20 +3011,102 @@
                         "count": [36, 36]
                     },
                     {
+                        "unit": "trader_frigate_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_capital_ship_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
                         "unit": "trader_starbase",
-                        "count": [36, 36],
+                        "count": [9, 9],
                         "options": {
                             "items": [
-                                "trader_starbase_structural_integrity_0",
-                                "trader_starbase_unlock_beam_weapon",
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
                                 "trader_starbase_planetary_shield_array",
-                                "trader_starbase_hangar_0"
+                                "trader_starbase_structural_integrity_1" ,
+                                "trader_starbase_structural_integrity_2" 
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_trade_port"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_command_center"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_factory_support"
                             ]
                         }
                     },
                     {
                         "unit": "trader_phase_jump_inhibitor_structure",
                         "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_retrofit_bay_structure",
+                        "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_population_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_trade_port_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_loyalist_titan_factory_structure",
+                        "count": [1, 1]
                     }
                     ]
                 },
@@ -3111,6 +3193,30 @@
                     {
                         "unit": "trader_frigate_factory_structure",
                         "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_capital_ship_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_culture_center_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_exotic_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_population_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_trade_port_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_loyalist_titan_factory_structure",
+                        "count": [1, 1]
                     }
                     ]
                 }
