@@ -3723,147 +3723,237 @@
             }
         },
         {
-            "gravity_well_id": 6,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 7,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 8,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 9,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 10,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 13,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 14,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 15,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 16,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 19,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 20,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 59,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 60,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 62,
-            "starting_track_levels": {
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
             "gravity_well_id": 75,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 78,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 79,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 80,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 81,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 82,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 83,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 84,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 85,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 86,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 87,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 88,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 89,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 90,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 91,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 92,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 93,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 94,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 95,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 96,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 97,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 98,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 99,
+            "starting_track_levels": {
+                "logistics": 5,
+                "defense": 5,
+                "commerce": 5,
+                "mining": 5,
+                "research": 5
+            }
+        },
+        {
+            "gravity_well_id": 100,
             "starting_track_levels": {
                 "logistics": 5,
                 "defense": 5,
