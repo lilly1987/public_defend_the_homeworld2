@@ -252,9 +252,10 @@
                     },
                     "orbit_speed_scalar": 0.0,
                     "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 0.0,
-                    "chance_of_second_planet_bonus": 0.0,
-                    "chance_of_loot": 0.0
+                    "chance_of_first_planet_bonus": 1.0,
+                    "chance_of_second_planet_bonus": 1.0,
+                    "chance_of_loot": 1.0,
+                    "has_artifact": true
                 }
             ]
         },
