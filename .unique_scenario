@@ -2992,6 +2992,82 @@
             }
         ]
     },
+    "starting_units_to_any_player_and_gravity_well":
+    [
+        {
+            "faction_allowed": "dlc_trader_loyalist",
+            "faction_spawn_units": [
+            {
+                "player_index": 0,
+                "gravity_well_id": 2,
+                "spawn_units": {
+                    "required_units":[
+                    {
+                        "unit": "trader_gauss_defense_structure",
+                        "count": [8, 8]
+                    },
+                    {
+                        "unit": "trader_hangar_defense_structure",
+                        "count": [4, 4]
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [10, 10],
+                        "options": {
+                            "items": [
+                                "trader_starbase_structural_integrity_0",
+                                "trader_starbase_unlock_beam_weapon",
+                                "trader_starbase_planetary_shield_array",
+                                "trader_starbase_hangar_0"
+                            ]
+                        }
+                    }
+                    ]
+                },
+                "spawn_units_in_formation": [
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_battle_capital_ship",
+                        "count": [1, 1]
+                    },
+                    {
+                        "unit": "trader_heavy_cruiser",
+                        "count": [10, 10]
+                    },
+                    {
+                        "unit": "trader_carrier_cruiser",
+                        "count": [6, 6]
+                    },
+                    {
+                        "unit": "trader_light_frigate",
+                        "count": [10, 10]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [2, 2]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [2, 2]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [2, 2]
+                    }]
+                }]
+            }]
+        }
+    ],
     "starting_research": [
         {
             "faction_allowed": "dlc_trader_loyalist",
