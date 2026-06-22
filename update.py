@@ -20,153 +20,14 @@ EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
 
 # 50 안먹힘
 STARTING_TRACK_LEVELS = {
+    "surveying": 5,
     "logistics": 5,
     "defense": 5,
     "commerce": 5,
     "mining": 5,
     "research": 5,
 }
-starting_units_to_any_player_and_gravity_well1_is=False
-starting_units_to_any_player_and_gravity_well1_id=[2]
-starting_units_to_any_player_and_gravity_well1=        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 2,# id 입력
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_starbase",
-                                "count": [
-                                    10,
-                                    10
-                                ],
-                                "options": {
-                                    "items": [
-                                        "trader_starbase_structural_integrity_0",
-                                        "trader_starbase_unlock_beam_weapon",
-                                        "trader_starbase_planetary_shield_array",
-                                        "trader_starbase_hangar_0"
-                                    ]
-                                }
-                            },
-                            {
-                                "unit": "trader_gauss_defense_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_hangar_defense_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_phase_jump_inhibitor_structure",
-                                "count": [
-                                    1,
-                                    1
-                                ]
-                            }
-                        ]
-                    },
-                    "spawn_units_in_formation": [
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_battle_capital_ship",
-                                    "count": [
-                                        1,
-                                        1
-                                    ]
-                                },
-                                {
-                                    "unit": "trader_heavy_cruiser",
-                                    "count": [
-                                        10,
-                                        10
-                                    ]
-                                },
-                                {
-                                    "unit": "trader_carrier_cruiser",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                },
-                                {
-                                    "unit": "trader_light_frigate",
-                                    "count": [
-                                        10,
-                                        10
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        2,
-                                        2
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        2,
-                                        2
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        2,
-                                        2
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        2,
-                                        2
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        2,
-                                        2
-                                    ]
-                                }
-                            ]
-                        },
-
-                    ]
-                }
-            ]
-        }
+starting_units_to_any_player_and_gravity_well_EXCLUDED=[2]
 
 starting_units_to_any_player_and_gravity_well=        {
             "faction_allowed": "dlc_trader_loyalist",
@@ -176,123 +37,123 @@ starting_units_to_any_player_and_gravity_well=        {
                     "gravity_well_id": 2,
                     "spawn_units": {
                         "required_units": [
-                            {
-                                "unit": "trader_frigate_factory_structure",
-                                "count": [
-                                    1,
-                                    1
-                                ]
-                            },
-                            {
-                                "unit": "trader_capital_ship_factory_structure",
-                                "count": [
-                                    1,
-                                    1
-                                ]
-                            },
-                            {
-                                "unit": "trader_loyalist_titan_factory_structure",
-                                "count": [
-                                    1,
-                                    1
-                                ]
-                            },
+                            # {
+                            #     "unit": "trader_frigate_factory_structure",
+                            #     "count": [
+                            #         1,
+                            #         1
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_capital_ship_factory_structure",
+                            #     "count": [
+                            #         1,
+                            #         1
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_loyalist_titan_factory_structure",
+                            #     "count": [
+                            #         1,
+                            #         1
+                            #     ]
+                            # },
                             {
                                 "unit": "trader_civilian_research_lab_structure",
                                 "count": [
-                                    1,
-                                    1
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_military_research_lab_structure",
                                 "count": [
-                                    1,
-                                    1
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_population_structure",
                                 "count": [
-                                    1,
-                                    1
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_trade_port_structure",
                                 "count": [
-                                    1,
-                                    1
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_culture_center_structure",# 문화
                                 "count": [
-                                    1,
-                                    1
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_exotic_factory_structure",
                                 "count": [
-                                    1,
-                                    1
-                                ]
-                            },
-                            {
-                                "unit": "trader_starbase",
-                                "count": [
-                                    10,
-                                    10
-                                ],
-                                "options": {
-                                    "items": [
-                                "trader_starbase_structural_integrity_0", 
-                                "trader_starbase_flak_field", 
-                                "trader_starbase_docking_booms", 
-                                "trader_starbase_unlock_torpedo_weapon", 
-                                "trader_starbase_stun_torpedo", 
-                                "trader_starbase_unlock_beam_weapon", 
-                                "trader_starbase_hangar_0", 
-                                "trader_starbase_planetary_shield_array"
-                                    ]
-                                }
-                            },
-                            {
-                                "unit": "trader_phase_jump_inhibitor_structure", # 억제
-                                "count": [
                                     10,
                                     10
                                 ]
                             },
-                            {
-                                "unit": "trader_retrofit_bay_structure", # 개조
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_gauss_defense_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_hangar_defense_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_autocannon_defense_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
+                            # {
+                            #     "unit": "trader_starbase",
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ],
+                            #     "options": {
+                            #         "items": [
+                            #     "trader_starbase_structural_integrity_0", 
+                            #     "trader_starbase_flak_field", 
+                            #     "trader_starbase_docking_booms", 
+                            #     "trader_starbase_unlock_torpedo_weapon", 
+                            #     "trader_starbase_stun_torpedo", 
+                            #     "trader_starbase_unlock_beam_weapon", 
+                            #     "trader_starbase_hangar_0", 
+                            #     "trader_starbase_planetary_shield_array"
+                            #         ]
+                            #     }
+                            # },
+                            # {
+                            #     "unit": "trader_phase_jump_inhibitor_structure", # 억제
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_retrofit_bay_structure", # 개조
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_gauss_defense_structure",
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_hangar_defense_structure",
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ]
+                            # },
+                            # {
+                            #     "unit": "trader_autocannon_defense_structure",
+                            #     "count": [
+                            #         10,
+                            #         10
+                            #     ]
+                            # },
                             {
                                 "unit": "trader_metal_extractor_structure",
                                 "count": [
@@ -609,14 +470,9 @@ starting_units_to_any_player_and_gravity_well_int=    [
     ]
 def build_starting_units_list(planet_ids):
     units = copy.deepcopy(starting_units_to_any_player_and_gravity_well_int)
-    if starting_units_to_any_player_and_gravity_well1_is:
-        for planet_id in starting_units_to_any_player_and_gravity_well1_id:
-            first_entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well1)
-            first_entry["faction_spawn_units"][0]["gravity_well_id"] = planet_id
-            units.append(first_entry)
 
     for planet_id in planet_ids:
-        if planet_id in starting_units_to_any_player_and_gravity_well1_id:
+        if planet_id in starting_units_to_any_player_and_gravity_well_EXCLUDED:
             continue
         else:
             entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well)
