@@ -3113,67 +3113,90 @@
                     "required_units": [
                     {
                         "unit": "trader_loyalist_titan",
-                        "count": [1, 1]
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "trader_loyalist_titan_hangar",
+                                "trader_loyalist_titan_unlock_missile_weapon",
+                                "trader_loyalist_titan_unlock_beam_weapon",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [1, 1]
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_reserve_squadron_hangar",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "trader_battle_capital_ship",
-                        "count": [3, 3]
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_heavy_gauss_slugs",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "trader_colony_capital_ship",
-                        "count": [3, 3]
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "trader_support_capital_ship",
-                        "count": [3, 3]
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "trader_carrier_capital_ship",
-                        "count": [3, 3]
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     },
                     {
                         "unit": "trader_siege_capital_ship",
-                        "count": [3, 3]
-                    },
-                    {
-                        "unit": "trader_robotics_cruiser",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_heavy_cruiser",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_long_range_cruiser",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_carrier_cruiser",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_torpedo_cruiser",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_light_frigate",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_siege_frigate",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_antifighter_frigate",
-                        "count": [10, 10]
-                    },
-                    {
-                        "unit": "trader_antiarmor_frigate",
-                        "count": [10, 10]
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_heavy_gauss_slugs",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
                     }]
                 },
                 {
