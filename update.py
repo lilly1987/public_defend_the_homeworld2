@@ -298,11 +298,13 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "count": [1, 1],
                         "options": {
                             "items": [
+                                "mass_negation_core_ship_artifact",
+                                "kinetic_intensifier_ship_artifact",
                                 "trader_loyalist_titan_hangar",
                                 "trader_loyalist_titan_unlock_missile_weapon",
                                 "trader_loyalist_titan_unlock_beam_weapon",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -312,9 +314,10 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "count": [1, 1],
                         "options": {
                             "items": [
+                                "power_core_relic_ship_artifact",
                                 "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_reserve_squadron_hangar",
                                 "trader_targeting_array"
                             ]
@@ -327,7 +330,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             "items": [
                                 "trader_heavy_gauss_slugs",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -339,7 +342,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -351,7 +354,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -363,7 +366,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -375,7 +378,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             "items": [
                                 "trader_heavy_gauss_slugs",
                                 "trader_missile_guidance_computer",
-                                "trader_rapid_autoloader",
+                                "weapon_symbiote_ship_artifact",
                                 "trader_targeting_array"
                             ]
                         }
@@ -497,6 +500,12 @@ def update_scenario_data(scenario_data, planet_ids):
         {
             "gravity_well_id": planet_id,
             "starting_track_levels": STARTING_TRACK_LEVELS,
+            "starting_planet_components": [
+                    "culture_bonus_planet_artifact",
+                    "tachyon_comms_relay_planet_artifact",
+                    "trader_munitions_plant",
+                    "trader_garrison_recruitment_center"
+            ],
         }
         for planet_id in planet_ids
     ]

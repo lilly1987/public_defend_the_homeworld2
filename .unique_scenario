@@ -126,6 +126,12 @@
                 "mining": 5,
                 "research": 5
             },
+						"starting_planet_components": [
+								"culture_bonus_planet_artifact",
+								"tachyon_comms_relay_planet_artifact",
+								"trader_munitions_plant",
+								"trader_garrison_recruitment_center"
+						],
             "starting_is_colonized": true,
             "starting_militia_supply": 1000
         }
@@ -3154,11 +3160,13 @@
                                     ],
                                     "options": {
                                         "items": [
+                                            "mass_negation_core_ship_artifact",
+                                            "kinetic_intensifier_ship_artifact",
                                             "trader_loyalist_titan_hangar",
                                             "trader_loyalist_titan_unlock_missile_weapon",
                                             "trader_loyalist_titan_unlock_beam_weapon",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
@@ -3171,9 +3179,10 @@
                                     ],
                                     "options": {
                                         "items": [
+                                            "power_core_relic_ship_artifact",
                                             "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_reserve_squadron_hangar",
                                             "trader_targeting_array"
                                         ]
@@ -3189,7 +3198,7 @@
                                         "items": [
                                             "trader_heavy_gauss_slugs",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
@@ -3204,7 +3213,7 @@
                                         "items": [
                                             "trader_reserve_squadron_hangar",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
@@ -3219,7 +3228,7 @@
                                         "items": [
                                             "trader_reserve_squadron_hangar",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
@@ -3234,7 +3243,7 @@
                                         "items": [
                                             "trader_reserve_squadron_hangar",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
@@ -3249,7 +3258,7 @@
                                         "items": [
                                             "trader_heavy_gauss_slugs",
                                             "trader_missile_guidance_computer",
-                                            "trader_rapid_autoloader",
+                                            "weapon_symbiote_ship_artifact",
                                             "trader_targeting_array"
                                         ]
                                     }
