@@ -16,7 +16,7 @@ FIELDS_TO_SET = {
     "loot_level": 2,
 }
 
-EXCLUDED_CHILD_IDS = {2,75, 11, 12, 17, 18, 25, 26}
+EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
 
 # 50 안먹힘
 STARTING_TRACK_LEVELS = {
@@ -26,8 +26,8 @@ STARTING_TRACK_LEVELS = {
     "mining": 5,
     "research": 5,
 }
-
-starting_units_to_any_player_and_gravity_well1_id=2
+starting_units_to_any_player_and_gravity_well1_is=False
+starting_units_to_any_player_and_gravity_well1_id=[2]
 starting_units_to_any_player_and_gravity_well1=        {
             "faction_allowed": "dlc_trader_loyalist",
             "faction_spawn_units": [
@@ -184,6 +184,20 @@ starting_units_to_any_player_and_gravity_well=        {
                                 ]
                             },
                             {
+                                "unit": "trader_capital_ship_factory_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_loyalist_titan_factory_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
                                 "unit": "trader_civilian_research_lab_structure",
                                 "count": [
                                     1,
@@ -193,8 +207,22 @@ starting_units_to_any_player_and_gravity_well=        {
                             {
                                 "unit": "trader_military_research_lab_structure",
                                 "count": [
-                                    2,
-                                    2
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_population_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_trade_port_structure",
+                                "count": [
+                                    1,
+                                    1
                                 ]
                             },
                             {
@@ -212,46 +240,71 @@ starting_units_to_any_player_and_gravity_well=        {
                                 ]
                             },
                             {
-                                "unit": "trader_retrofit_bay_structure", # 개조
-                                "count": [
-                                    1,
-                                    1
-                                ]
-                            },
-                            {
                                 "unit": "trader_starbase",
                                 "count": [
-                                    2,
-                                    2
+                                    10,
+                                    10
                                 ],
                                 "options": {
                                     "items": [
-                                        "trader_starbase_structural_integrity_0",
-                                        "trader_starbase_unlock_beam_weapon",
-                                        "trader_starbase_planetary_shield_array",
-                                        "trader_starbase_hangar_0"
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_planetary_shield_array"
                                     ]
                                 }
                             },
                             {
+                                "unit": "trader_phase_jump_inhibitor_structure", # 억제
+                                "count": [
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
+                                "unit": "trader_retrofit_bay_structure", # 개조
+                                "count": [
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
                                 "unit": "trader_gauss_defense_structure",
                                 "count": [
-                                    8,
-                                    8
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_hangar_defense_structure",
                                 "count": [
-                                    4,
-                                    4
+                                    10,
+                                    10
                                 ]
                             },
                             {
                                 "unit": "trader_autocannon_defense_structure",
                                 "count": [
-                                    6,
-                                    6
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
+                                "unit": "trader_metal_extractor_structure",
+                                "count": [
+                                    10,
+                                    10
+                                ]
+                            },
+                            {
+                                "unit": "trader_crystal_extractor_structure",
+                                "count": [
+                                    10,
+                                    10
                                 ]
                             }
 
@@ -261,15 +314,309 @@ starting_units_to_any_player_and_gravity_well=        {
             ]
         }
 
-
+starting_units_to_any_player_and_gravity_well_int=    [
+        {
+            "faction_allowed": "dlc_trader_loyalist",
+            "faction_spawn_units": [
+            {
+                "player_index": 0,
+                "gravity_well_id": 2,
+                "spawn_units": {
+                    "required_units":[
+                    {
+                        "unit": "trader_frigate_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_capital_ship_factory_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_population_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_trade_port_structure",
+                        "count": [25, 25]
+                    },
+                    {
+                        "unit": "trader_loyalist_titan_factory_structure",
+                        "count": [1, 1]
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_planetary_shield_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_trade_port"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_command_center"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_starbase",
+                        "count": [9, 9],
+                        "options": {
+                            "items": [
+                                
+                                "trader_starbase_structural_integrity_0", 
+                                "trader_starbase_flak_field", 
+                                "trader_starbase_docking_booms", 
+                                "trader_starbase_unlock_torpedo_weapon", 
+                                "trader_starbase_stun_torpedo", 
+                                "trader_starbase_unlock_beam_weapon", 
+                                "trader_starbase_hangar_0", 
+                                "trader_starbase_factory_support"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_phase_jump_inhibitor_structure",
+                        "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_hangar_defense_structure",
+                        "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_retrofit_bay_structure",
+                        "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_gauss_defense_structure",
+                        "count": [36, 36]
+                    }
+                    ]
+                },
+                "spawn_units_in_formation": [
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_loyalist_titan",
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "trader_loyalist_titan_hangar",
+                                "trader_loyalist_titan_unlock_missile_weapon",
+                                "trader_loyalist_titan_unlock_beam_weapon",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "dlc2_trader_loyalist_super_capital_ship",
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_reserve_squadron_hangar",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_battle_capital_ship",
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_heavy_gauss_slugs",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_colony_capital_ship",
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_support_capital_ship",
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_carrier_capital_ship",
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_reserve_squadron_hangar",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "trader_siege_capital_ship",
+                        "count": [7, 7],
+                        "options": {
+                            "items": [
+                                "trader_heavy_gauss_slugs",
+                                "trader_missile_guidance_computer",
+                                "trader_rapid_autoloader",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                },
+                {
+                    "required_units": [
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [6, 6]
+                    }]
+                }]
+            }]
+        },
+    ]
 def build_starting_units_list(planet_ids):
-    units = []
-    first_entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well1)
-    first_entry["faction_spawn_units"][0]["gravity_well_id"] = starting_units_to_any_player_and_gravity_well1_id
-    units.append(first_entry)
+    units = copy.deepcopy(starting_units_to_any_player_and_gravity_well_int)
+    if starting_units_to_any_player_and_gravity_well1_is:
+        for planet_id in starting_units_to_any_player_and_gravity_well1_id:
+            first_entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well1)
+            first_entry["faction_spawn_units"][0]["gravity_well_id"] = planet_id
+            units.append(first_entry)
 
     for planet_id in planet_ids:
-        if planet_id == starting_units_to_any_player_and_gravity_well1_id:
+        if planet_id in starting_units_to_any_player_and_gravity_well1_id:
             continue
         else:
             entry = copy.deepcopy(starting_units_to_any_player_and_gravity_well)
@@ -298,7 +645,7 @@ def update_scenario_data(scenario_data, planet_ids):
         for planet_id in planet_ids
     ]
 
-    # scenario_data["starting_units_to_any_player_and_gravity_well"] = build_starting_units_list(planet_ids)
+    scenario_data["starting_units_to_any_player_and_gravity_well"] = build_starting_units_list(planet_ids)
 
 
 def main() -> None:
