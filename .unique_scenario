@@ -126,12 +126,12 @@
                 "mining": 5,
                 "research": 5
             },
-						"starting_planet_components": [
-								"culture_bonus_planet_artifact",
-								"tachyon_comms_relay_planet_artifact",
-								"trader_munitions_plant",
-								"trader_garrison_recruitment_center"
-						],
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ],
             "starting_is_colonized": true,
             "starting_militia_supply": 1000
         }
@@ -3051,13 +3051,14 @@
                                 ],
                                 "options": {
                                     "items": [
-                                        "trader_starbase_structural_integrity_0",
                                         "trader_starbase_flak_field",
                                         "trader_starbase_docking_booms",
                                         "trader_starbase_unlock_torpedo_weapon",
                                         "trader_starbase_stun_torpedo",
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
+                                        "trader_starbase_hangar_1",
+                                        "trader_starbase_hangar_2",
                                         "trader_starbase_planetary_shield_array"
                                     ]
                                 }
@@ -3070,13 +3071,14 @@
                                 ],
                                 "options": {
                                     "items": [
-                                        "trader_starbase_structural_integrity_0",
                                         "trader_starbase_flak_field",
                                         "trader_starbase_docking_booms",
                                         "trader_starbase_unlock_torpedo_weapon",
                                         "trader_starbase_stun_torpedo",
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
+                                        "trader_starbase_hangar_1",
+                                        "trader_starbase_hangar_2",
                                         "trader_starbase_trade_port"
                                     ]
                                 }
@@ -3089,13 +3091,13 @@
                                 ],
                                 "options": {
                                     "items": [
-                                        "trader_starbase_structural_integrity_0",
                                         "trader_starbase_flak_field",
                                         "trader_starbase_docking_booms",
                                         "trader_starbase_unlock_torpedo_weapon",
                                         "trader_starbase_stun_torpedo",
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
+                                        "trader_starbase_hangar_1",
                                         "trader_starbase_command_center"
                                     ]
                                 }
@@ -3108,13 +3110,14 @@
                                 ],
                                 "options": {
                                     "items": [
-                                        "trader_starbase_structural_integrity_0",
                                         "trader_starbase_flak_field",
                                         "trader_starbase_docking_booms",
                                         "trader_starbase_unlock_torpedo_weapon",
                                         "trader_starbase_stun_torpedo",
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
+                                        "trader_starbase_hangar_1",
+                                        "trader_starbase_hangar_2",
                                         "trader_starbase_factory_support"
                                     ]
                                 }
@@ -5350,17 +5353,6 @@
     ],
     "planets": [
         {
-            "gravity_well_id": 2,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
             "gravity_well_id": 75,
             "starting_track_levels": {
                 "surveying": 5,
@@ -5369,7 +5361,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 78,
@@ -5380,7 +5378,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 79,
@@ -5391,7 +5395,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 80,
@@ -5402,7 +5412,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 81,
@@ -5413,7 +5429,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 82,
@@ -5424,7 +5446,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 83,
@@ -5435,7 +5463,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 84,
@@ -5446,7 +5480,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 85,
@@ -5457,7 +5497,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 86,
@@ -5468,7 +5514,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 87,
@@ -5479,7 +5531,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 88,
@@ -5490,7 +5548,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 89,
@@ -5501,7 +5565,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 90,
@@ -5512,7 +5582,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 91,
@@ -5523,7 +5599,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 92,
@@ -5534,7 +5616,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 93,
@@ -5545,7 +5633,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 94,
@@ -5556,7 +5650,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 95,
@@ -5567,7 +5667,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 96,
@@ -5578,7 +5684,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 97,
@@ -5589,7 +5701,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 98,
@@ -5600,7 +5718,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 99,
@@ -5611,7 +5735,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         },
         {
             "gravity_well_id": 100,
@@ -5622,7 +5752,13 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            }
+            },
+            "starting_planet_components": [
+                "culture_bonus_planet_artifact",
+                "tachyon_comms_relay_planet_artifact",
+                "trader_munitions_plant",
+                "trader_garrison_recruitment_center"
+            ]
         }
     ],
     "victory_type_gui": {

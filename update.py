@@ -18,15 +18,24 @@ FIELDS_TO_SET = {
 
 EXCLUDED_CHILD_IDS = {2, 11, 12, 17, 18, 25, 26}
 
-# 50 안먹힘
-STARTING_TRACK_LEVELS = {
-    "surveying": 5,
-    "logistics": 5,
-    "defense": 5,
-    "commerce": 5,
-    "mining": 5,
-    "research": 5,
+PLANET={
+    "gravity_well_id": 75,
+    "starting_track_levels": {
+        "surveying": 5,
+        "logistics": 5,
+        "defense": 5,
+        "commerce": 5,
+        "mining": 5,
+        "research": 5,
+    },
+    # "starting_planet_components": [
+    #     "culture_bonus_planet_artifact",
+    #     "tachyon_comms_relay_planet_artifact",
+    #     "trader_munitions_plant",
+    #     "trader_garrison_recruitment_center",
+    # ],
 }
+
 starting_units_to_any_player_and_gravity_well_EXCLUDED=[2]
 
 starting_units_to_any_player_and_gravity_well=        {
@@ -495,21 +504,20 @@ def extract_player_zero_ids(data):
     return []
 
 
-def update_scenario_data(scenario_data, planet_ids):
-    scenario_data["planets"] = [
-        {
-            "gravity_well_id": planet_id,
-            "starting_track_levels": STARTING_TRACK_LEVELS,
-            "starting_planet_components": [
-                    "culture_bonus_planet_artifact",
-                    "tachyon_comms_relay_planet_artifact",
-                    "trader_munitions_plant",
-                    "trader_garrison_recruitment_center"
-            ],
-        }
-        for planet_id in planet_ids
-    ]
+def build_starting_planets_list(planet_ids):
+    units=[]
+    for planet_id in planet_ids:
+        if planet_id in starting_units_to_any_player_and_gravity_well_EXCLUDED:
+            continue
+        else:
+            entry = copy.deepcopy(PLANET)
+            entry["gravity_well_id"] = planet_id
+            units.append(entry)
+    return units    
 
+
+def update_scenario_data(scenario_data, planet_ids):
+    scenario_data["planets"] = build_starting_planets_list(planet_ids)
     scenario_data["starting_units_to_any_player_and_gravity_well"] = build_starting_units_list(planet_ids)
 
 
