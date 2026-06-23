@@ -6,8 +6,8 @@
             "id": 0,
             "filling_name": "random_star",
             "position": [
-                -546.030273,
-                2507.493408
+                -995.280518,
+                2502.273926
             ],
             "rotation": 147.962357,
             "chance_of_retrograde_orbit": 1.0,
@@ -20,8 +20,8 @@
                     "id": 2,
                     "filling_name": "terran_planet_lilly",
                     "position": [
-                        -861.558594,
-                        2498.759521
+                        -1103.566284,
+                        2502.273926
                     ],
                     "ownership": {
                         "player_index": 0
@@ -38,8 +38,8 @@
                     "id": 75,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2451.006348,
-                        2503.379639
+                        -1898.234497,
+                        2502.273926
                     ],
                     "ownership": {
                         "player_index": 0
@@ -56,8 +56,8 @@
                     "id": 11,
                     "filling_name": "random_space_junk_fixture",
                     "position": [
-                        -516.410645,
-                        2797.062256
+                        -899.026489,
+                        2499.867432
                     ],
                     "orbit_speed_scalar": 0.0,
                     "ignore_orbit_overlap_checks": true,
@@ -70,64 +70,8 @@
                     "id": 12,
                     "filling_name": "random_radiation_storm_fixture",
                     "position": [
-                        -511.283081,
-                        3068.815674
-                    ],
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 17,
-                    "filling_name": "random_space_junk_fixture",
-                    "position": [
-                        -260.039307,
-                        2515.053467
-                    ],
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 18,
-                    "filling_name": "random_radiation_storm_fixture",
-                    "position": [
-                        62.988857,
-                        2494.543701
-                    ],
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 25,
-                    "filling_name": "random_space_junk_fixture",
-                    "position": [
-                        -536.92041,
-                        2233.045166
-                    ],
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 26,
-                    "filling_name": "random_radiation_storm_fixture",
-                    "position": [
-                        -542.047852,
-                        1956.16333
+                        -797.959717,
+                        2499.867432
                     ],
                     "orbit_speed_scalar": 0.0,
                     "ignore_orbit_overlap_checks": true,
@@ -140,8 +84,8 @@
                     "id": 78,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1044.020508,
-                        2603.278564
+                        -1199.82019,
+                        2550.400879
                     ],
                     "ownership": {
                         "player_index": 0
@@ -158,8 +102,8 @@
                     "id": 79,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1040.256714,
-                        2411.343994
+                        -1202.226562,
+                        2446.927734
                     ],
                     "ownership": {
                         "player_index": 0
@@ -176,8 +120,8 @@
                     "id": 80,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1251.006958,
-                        2701.126709
+                        -1310.512329,
+                        2610.55957
                     ],
                     "ownership": {
                         "player_index": 0
@@ -194,7 +138,7 @@
                     "id": 81,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1247.243286,
+                        -1307.037598,
                         2509.192627
                     ],
                     "ownership": {
@@ -212,8 +156,8 @@
                     "id": 82,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1251.006958,
-                        2302.204834
+                        -1303.293335,
+                        2393.988037
                     ],
                     "ownership": {
                         "player_index": 0
@@ -230,8 +174,8 @@
                     "id": 83,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1446.704346,
-                        2810.265381
+                        -1404.359985,
+                        2649.061035
                     ],
                     "ownership": {
                         "player_index": 0
@@ -248,8 +192,8 @@
                     "id": 84,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1442.94165,
-                        2618.331787
+                        -1404.359985,
+                        2552.807129
                     ],
                     "ownership": {
                         "player_index": 0
@@ -266,8 +210,8 @@
                     "id": 85,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1446.705322,
-                        2400.053467
+                        -1399.547363,
+                        2454.146729
                     ],
                     "ownership": {
                         "player_index": 0
@@ -284,8 +228,8 @@
                     "id": 86,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1442.94165,
-                        2208.119385
+                        -1404.359985,
+                        2348.267334
                     ],
                     "ownership": {
                         "player_index": 0
@@ -302,8 +246,8 @@
                     "id": 87,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1646.16626,
-                        2708.654053
+                        -1503.020386,
+                        2598.527832
                     ],
                     "ownership": {
                         "player_index": 0
@@ -320,8 +264,8 @@
                     "id": 88,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1642.402588,
-                        2516.719482
+                        -1500.614014,
+                        2499.867432
                     ],
                     "ownership": {
                         "player_index": 0
@@ -338,8 +282,8 @@
                     "id": 89,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1646.16626,
-                        2298.44165
+                        -1503.020386,
+                        2398.800781
                     ],
                     "ownership": {
                         "player_index": 0
@@ -356,8 +300,8 @@
                     "id": 90,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1642.402588,
-                        2106.508057
+                        -1503.020386,
+                        2300.140381
                     ],
                     "ownership": {
                         "player_index": 0
@@ -374,8 +318,8 @@
                     "id": 91,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1838.100098,
-                        2795.212646
+                        -1604.087158,
+                        2651.467529
                     ],
                     "ownership": {
                         "player_index": 0
@@ -392,8 +336,8 @@
                     "id": 92,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1834.336548,
-                        2603.278564
+                        -1604.087158,
+                        2552.807129
                     ],
                     "ownership": {
                         "player_index": 0
@@ -410,8 +354,8 @@
                     "id": 93,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1838.100098,
-                        2385.000732
+                        -1601.680664,
+                        2451.740479
                     ],
                     "ownership": {
                         "player_index": 0
@@ -428,8 +372,8 @@
                     "id": 94,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1834.336548,
-                        2193.066162
+                        -1601.680664,
+                        2353.080078
                     ],
                     "ownership": {
                         "player_index": 0
@@ -446,8 +390,8 @@
                     "id": 95,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1649.928955,
-                        2908.114014
+                        -1495.80127,
+                        2699.594482
                     ],
                     "ownership": {
                         "player_index": 0
@@ -464,8 +408,8 @@
                     "id": 96,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2033.797607,
-                        2697.363525
+                        -1700.341064,
+                        2600.934082
                     ],
                     "ownership": {
                         "player_index": 0
@@ -482,8 +426,8 @@
                     "id": 97,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2037.561279,
-                        2479.085205
+                        -1702.747437,
+                        2502.273926
                     ],
                     "ownership": {
                         "player_index": 0
@@ -500,8 +444,8 @@
                     "id": 98,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2033.798584,
-                        2287.151123
+                        -1702.747437,
+                        2401.207031
                     ],
                     "ownership": {
                         "player_index": 0
@@ -518,8 +462,8 @@
                     "id": 99,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2244.54834,
-                        2595.751709
+                        -1796.595093,
+                        2547.994385
                     ],
                     "ownership": {
                         "player_index": 0
@@ -536,8 +480,8 @@
                     "id": 100,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -2240.784668,
-                        2403.817139
+                        -1794.188721,
+                        2451.740479
                     ],
                     "ownership": {
                         "player_index": 0
@@ -556,8 +500,8 @@
             "id": 1,
             "filling_name": "random_star",
             "position": [
-                -984.288757,
-                4004.186768
+                696.931763,
+                2505.576904
             ],
             "chance_of_loot": 0.0,
             "child_nodes": [
@@ -565,8 +509,8 @@
                     "id": 3,
                     "filling_name": "player_home_planet",
                     "position": [
-                        -984.318115,
-                        4204.179688
+                        896.930847,
+                        2505.360107
                     ],
                     "ownership": {
                         "player_index": 1
@@ -581,8 +525,8 @@
                     "id": 4,
                     "filling_name": "player_home_planet",
                     "position": [
-                        -1184.290405,
-                        4004.062012
+                        697.058472,
+                        2705.579346
                     ],
                     "ownership": {
                         "player_index": 3
@@ -597,8 +541,8 @@
                     "id": 5,
                     "filling_name": "player_home_planet",
                     "position": [
-                        -784.375366,
-                        4004.221924
+                        696.728394,
+                        2305.663086
                     ],
                     "ownership": {
                         "player_index": 2
@@ -614,19 +558,9 @@
     ],
     "phase_lanes": [
         {
-            "id": 36,
-            "node_a": 25,
-            "node_b": 26
-        },
-        {
             "id": 43,
             "node_a": 11,
             "node_b": 12
-        },
-        {
-            "id": 51,
-            "node_a": 17,
-            "node_b": 18
         },
         {
             "id": 55,
@@ -642,16 +576,6 @@
             "id": 57,
             "node_a": 1,
             "node_b": 5
-        },
-        {
-            "id": 71,
-            "node_a": 25,
-            "node_b": 0
-        },
-        {
-            "id": 72,
-            "node_a": 17,
-            "node_b": 0
         },
         {
             "id": 73,
