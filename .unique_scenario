@@ -3166,8 +3166,8 @@
                                 {
                                     "unit": "trader_battle_capital_ship",
                                     "count": [
-                                        7,
-                                        7
+                                        10,
+                                        10
                                     ],
                                     "options": {
                                         "items": [
@@ -3181,8 +3181,8 @@
                                 {
                                     "unit": "trader_colony_capital_ship",
                                     "count": [
-                                        7,
-                                        7
+                                        10,
+                                        10
                                     ],
                                     "options": {
                                         "items": [
@@ -3196,8 +3196,8 @@
                                 {
                                     "unit": "trader_support_capital_ship",
                                     "count": [
-                                        7,
-                                        7
+                                        10,
+                                        10
                                     ],
                                     "options": {
                                         "items": [
@@ -3211,8 +3211,8 @@
                                 {
                                     "unit": "trader_carrier_capital_ship",
                                     "count": [
-                                        7,
-                                        7
+                                        10,
+                                        10
                                     ],
                                     "options": {
                                         "items": [
@@ -3226,8 +3226,8 @@
                                 {
                                     "unit": "trader_siege_capital_ship",
                                     "count": [
-                                        7,
-                                        7
+                                        10,
+                                        10
                                     ],
                                     "options": {
                                         "items": [

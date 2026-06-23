@@ -326,7 +326,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_battle_capital_ship",
-                        "count": [7, 7],
+                        "count": [10, 10],
                         "options": {
                             "items": [
                                 "trader_heavy_gauss_slugs",
@@ -338,7 +338,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_colony_capital_ship",
-                        "count": [7, 7],
+                        "count": [10, 10],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -350,7 +350,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_support_capital_ship",
-                        "count": [7, 7],
+                        "count": [10, 10],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -362,7 +362,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_carrier_capital_ship",
-                        "count": [7, 7],
+                        "count": [10, 10],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -374,7 +374,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_siege_capital_ship",
-                        "count": [7, 7],
+                        "count": [10, 10],
                         "options": {
                             "items": [
                                 "trader_heavy_gauss_slugs",
