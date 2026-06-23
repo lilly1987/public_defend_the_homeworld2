@@ -194,100 +194,86 @@ starting_units_to_any_player_and_gravity_well_int=    [
                 "spawn_units": {
                     "required_units":[
                     {
-                        "unit": "trader_frigate_factory_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_capital_ship_factory_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_population_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_trade_port_structure",
-                        "count": [25, 25]
-                    },
-                    {
-                        "unit": "trader_loyalist_titan_factory_structure",
-                        "count": [1, 1]
-                    },
-                    {
                         "unit": "trader_starbase",
-                        "count": [9, 9],
+                        "count": [1, 1],
                         "options": {
                             "items": [
                                 
-                                "trader_starbase_structural_integrity_0", 
+                                # "trader_starbase_structural_integrity_0", 
                                 "trader_starbase_flak_field", 
                                 "trader_starbase_docking_booms", 
                                 "trader_starbase_unlock_torpedo_weapon", 
                                 "trader_starbase_stun_torpedo", 
                                 "trader_starbase_unlock_beam_weapon", 
                                 "trader_starbase_hangar_0", 
+                                "trader_starbase_hangar_1",
+                                # "trader_starbase_hangar_2",
                                 "trader_starbase_planetary_shield_array"
                             ]
                         }
                     },
                     {
                         "unit": "trader_starbase",
-                        "count": [9, 9],
+                        "count": [1, 1],
                         "options": {
                             "items": [
                                 
-                                "trader_starbase_structural_integrity_0", 
+                                # "trader_starbase_structural_integrity_0", 
                                 "trader_starbase_flak_field", 
                                 "trader_starbase_docking_booms", 
                                 "trader_starbase_unlock_torpedo_weapon", 
                                 "trader_starbase_stun_torpedo", 
                                 "trader_starbase_unlock_beam_weapon", 
                                 "trader_starbase_hangar_0", 
-                                "trader_starbase_trade_port"
-                            ]
-                        }
-                    },
-                    {
-                        "unit": "trader_starbase",
-                        "count": [9, 9],
-                        "options": {
-                            "items": [
-                                
-                                "trader_starbase_structural_integrity_0", 
-                                "trader_starbase_flak_field", 
-                                "trader_starbase_docking_booms", 
-                                "trader_starbase_unlock_torpedo_weapon", 
-                                "trader_starbase_stun_torpedo", 
-                                "trader_starbase_unlock_beam_weapon", 
-                                "trader_starbase_hangar_0", 
+                                "trader_starbase_hangar_1",
+                                # "trader_starbase_hangar_2",
                                 "trader_starbase_command_center"
                             ]
                         }
                     },
                     {
                         "unit": "trader_starbase",
-                        "count": [9, 9],
+                        "count": [60-2, 60-2],
+                        # "count": [90-2, 90-2],
                         "options": {
                             "items": [
                                 
-                                "trader_starbase_structural_integrity_0", 
+                                # "trader_starbase_structural_integrity_0", 
                                 "trader_starbase_flak_field", 
                                 "trader_starbase_docking_booms", 
                                 "trader_starbase_unlock_torpedo_weapon", 
                                 "trader_starbase_stun_torpedo", 
                                 "trader_starbase_unlock_beam_weapon", 
                                 "trader_starbase_hangar_0", 
-                                "trader_starbase_factory_support"
+                                "trader_starbase_hangar_1",
+                                "trader_starbase_hangar_2",
+                                # "trader_starbase_command_center"
                             ]
                         }
                     },
                     {
-                        "unit": "trader_phase_jump_inhibitor_structure",
-                        "count": [36, 36]
+                        "unit": "trader_frigate_factory_structure",
+                        "count": [6, 6]
                     },
                     {
-                        "unit": "trader_hangar_defense_structure",
-                        "count": [36, 36]
+                        "unit": "trader_capital_ship_factory_structure",
+                        "count": [6, 6]
+                    },
+                    {
+                        "unit": "trader_population_structure",
+                        "count": [6, 6]
+                    },
+                    {
+                        "unit": "trader_trade_port_structure",
+                        "count": [6, 6]
+                    },
+                    {
+                        "unit": "trader_loyalist_titan_factory_structure",
+                        "count": [1, 1]
+                    },
+                    {
+                        "unit": "trader_phase_jump_inhibitor_structure",
+                        "count": [6, 6]
                     },
                     {
                         "unit": "trader_retrofit_bay_structure",
@@ -295,8 +281,14 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_gauss_defense_structure",
-                        "count": [36, 36]
-                    }
+                        "count": [90, 90]
+                        # "count": [36, 36]
+                    },
+                    {
+                        "unit": "trader_autocannon_defense_structure",
+                        "count": [90, 90]
+                    },
+
                     ]
                 },
                 "spawn_units_in_formation": [
@@ -392,91 +384,8 @@ starting_units_to_any_player_and_gravity_well_int=    [
                             ]
                         }
                     }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                },
-                {
-                    "required_units": [
-                    {
-                        "unit": "trader_autocannon_defense_structure",
-                        "count": [6, 6]
-                    }]
-                }]
+                }
+                ]
             }]
         },
     ]

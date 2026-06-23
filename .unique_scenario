@@ -126,12 +126,6 @@
                 "mining": 5,
                 "research": 5
             },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ],
             "starting_is_colonized": true,
             "starting_militia_supply": 1000
         }
@@ -242,7 +236,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -313,7 +307,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -383,7 +377,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -477,7 +471,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -649,7 +643,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -707,7 +701,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -766,7 +760,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             15,
@@ -817,7 +811,7 @@
                     },
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -843,7 +837,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -894,7 +888,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -945,7 +939,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -1139,7 +1133,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -1297,7 +1291,7 @@
                     },
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -1527,7 +1521,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -1601,7 +1595,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -1749,7 +1743,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -1818,7 +1812,7 @@
                     },
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -1935,7 +1929,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -1972,7 +1966,7 @@
                     },
                     {
                         "player_index": 2,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -2290,7 +2284,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             14,
                             16,
@@ -2386,7 +2380,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             15,
                             14,
@@ -2484,7 +2478,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
-                        "gravity_well_id": 18,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             15,
                             14,
@@ -2585,7 +2579,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -2690,7 +2684,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -2795,7 +2789,7 @@
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
-                        "gravity_well_id": 26,
+                        "gravity_well_id": 12,
                         "minor_target_vector_ordered": [
                             59,
                             20,
@@ -3009,45 +3003,10 @@
                     "spawn_units": {
                         "required_units": [
                             {
-                                "unit": "trader_frigate_factory_structure",
-                                "count": [
-                                    25,
-                                    25
-                                ]
-                            },
-                            {
-                                "unit": "trader_capital_ship_factory_structure",
-                                "count": [
-                                    25,
-                                    25
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    25,
-                                    25
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    25,
-                                    25
-                                ]
-                            },
-                            {
-                                "unit": "trader_loyalist_titan_factory_structure",
+                                "unit": "trader_starbase",
                                 "count": [
                                     1,
                                     1
-                                ]
-                            },
-                            {
-                                "unit": "trader_starbase",
-                                "count": [
-                                    9,
-                                    9
                                 ],
                                 "options": {
                                     "items": [
@@ -3058,7 +3017,6 @@
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
                                         "trader_starbase_hangar_1",
-                                        "trader_starbase_hangar_2",
                                         "trader_starbase_planetary_shield_array"
                                     ]
                                 }
@@ -3066,28 +3024,8 @@
                             {
                                 "unit": "trader_starbase",
                                 "count": [
-                                    9,
-                                    9
-                                ],
-                                "options": {
-                                    "items": [
-                                        "trader_starbase_flak_field",
-                                        "trader_starbase_docking_booms",
-                                        "trader_starbase_unlock_torpedo_weapon",
-                                        "trader_starbase_stun_torpedo",
-                                        "trader_starbase_unlock_beam_weapon",
-                                        "trader_starbase_hangar_0",
-                                        "trader_starbase_hangar_1",
-                                        "trader_starbase_hangar_2",
-                                        "trader_starbase_trade_port"
-                                    ]
-                                }
-                            },
-                            {
-                                "unit": "trader_starbase",
-                                "count": [
-                                    9,
-                                    9
+                                    1,
+                                    1
                                 ],
                                 "options": {
                                     "items": [
@@ -3105,8 +3043,8 @@
                             {
                                 "unit": "trader_starbase",
                                 "count": [
-                                    9,
-                                    9
+                                    58,
+                                    58
                                 ],
                                 "options": {
                                     "items": [
@@ -3117,23 +3055,50 @@
                                         "trader_starbase_unlock_beam_weapon",
                                         "trader_starbase_hangar_0",
                                         "trader_starbase_hangar_1",
-                                        "trader_starbase_hangar_2",
-                                        "trader_starbase_factory_support"
+                                        "trader_starbase_hangar_2"
                                     ]
                                 }
                             },
                             {
-                                "unit": "trader_phase_jump_inhibitor_structure",
+                                "unit": "trader_frigate_factory_structure",
                                 "count": [
-                                    36,
-                                    36
+                                    6,
+                                    6
                                 ]
                             },
                             {
-                                "unit": "trader_hangar_defense_structure",
+                                "unit": "trader_capital_ship_factory_structure",
                                 "count": [
-                                    36,
-                                    36
+                                    6,
+                                    6
+                                ]
+                            },
+                            {
+                                "unit": "trader_population_structure",
+                                "count": [
+                                    6,
+                                    6
+                                ]
+                            },
+                            {
+                                "unit": "trader_trade_port_structure",
+                                "count": [
+                                    6,
+                                    6
+                                ]
+                            },
+                            {
+                                "unit": "trader_loyalist_titan_factory_structure",
+                                "count": [
+                                    1,
+                                    1
+                                ]
+                            },
+                            {
+                                "unit": "trader_phase_jump_inhibitor_structure",
+                                "count": [
+                                    6,
+                                    6
                                 ]
                             },
                             {
@@ -3146,8 +3111,15 @@
                             {
                                 "unit": "trader_gauss_defense_structure",
                                 "count": [
-                                    36,
-                                    36
+                                    90,
+                                    90
+                                ]
+                            },
+                            {
+                                "unit": "trader_autocannon_defense_structure",
+                                "count": [
+                                    90,
+                                    90
                                 ]
                             }
                         ]
@@ -3265,138 +3237,6 @@
                                             "trader_targeting_array"
                                         ]
                                     }
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "required_units": [
-                                {
-                                    "unit": "trader_autocannon_defense_structure",
-                                    "count": [
-                                        6,
-                                        6
-                                    ]
                                 }
                             ]
                         }
@@ -5361,13 +5201,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 78,
@@ -5378,13 +5212,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 79,
@@ -5395,13 +5223,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 80,
@@ -5412,13 +5234,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 81,
@@ -5429,13 +5245,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 82,
@@ -5446,13 +5256,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 83,
@@ -5463,13 +5267,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 84,
@@ -5480,13 +5278,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 85,
@@ -5497,13 +5289,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 86,
@@ -5514,13 +5300,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 87,
@@ -5531,13 +5311,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 88,
@@ -5548,13 +5322,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 89,
@@ -5565,13 +5333,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 90,
@@ -5582,13 +5344,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 91,
@@ -5599,13 +5355,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 92,
@@ -5616,13 +5366,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 93,
@@ -5633,13 +5377,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 94,
@@ -5650,13 +5388,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 95,
@@ -5667,13 +5399,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 96,
@@ -5684,13 +5410,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 97,
@@ -5701,13 +5421,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 98,
@@ -5718,13 +5432,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 99,
@@ -5735,13 +5443,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         },
         {
             "gravity_well_id": 100,
@@ -5752,13 +5454,7 @@
                 "commerce": 5,
                 "mining": 5,
                 "research": 5
-            },
-            "starting_planet_components": [
-                "culture_bonus_planet_artifact",
-                "tachyon_comms_relay_planet_artifact",
-                "trader_munitions_plant",
-                "trader_garrison_recruitment_center"
-            ]
+            }
         }
     ],
     "victory_type_gui": {
