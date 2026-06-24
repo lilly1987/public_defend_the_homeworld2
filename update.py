@@ -116,6 +116,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_starbase",
                         "count": [1, 1],
                         "options": {
+                            "level": 10,
                             "items": [
                                 
                                 # "trader_starbase_structural_integrity_0", 
@@ -135,6 +136,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_starbase",
                         "count": [1, 1],
                         "options": {
+                            "level": 10,
                             "items": [
                                 
                                 # "trader_starbase_structural_integrity_0", 
@@ -157,6 +159,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         # "count": [60-2, 60-2],
                         # "count": [90-2, 90-2],
                         "options": {
+                            "level": 10,
                             "items": [
                                 
                                 # "trader_starbase_structural_integrity_0", 
@@ -230,6 +233,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_loyalist_titan",
                         "count": [1, 1],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "mass_negation_core_ship_artifact",
                                 "kinetic_intensifier_ship_artifact",
@@ -244,8 +248,10 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [1, 1],
+                        
+                        "count": [3, 3],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "power_core_relic_ship_artifact",
                                 "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
@@ -255,39 +261,12 @@ starting_units_to_any_player_and_gravity_well_int=    [
                                 "trader_targeting_array"
                             ]
                         }
-                    },
-                    {
-                        "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [1, 1],
-                        "options": {
-                            "items": [
-                                "power_core_relic_ship_artifact",
-                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
-                                "trader_missile_guidance_computer",
-                                "weapon_symbiote_ship_artifact",
-                                "trader_reserve_squadron_hangar",
-                                "trader_targeting_array"
-                            ]
-                        }
-                    },
-                    {
-                        "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [1, 1],
-                        "options": {
-                            "items": [
-                                "power_core_relic_ship_artifact",
-                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
-                                "trader_missile_guidance_computer",
-                                "weapon_symbiote_ship_artifact",
-                                "trader_reserve_squadron_hangar",
-                                "trader_targeting_array"
-                            ]
-                        }
-                    },
+                    }, 
                     {
                         "unit": "trader_battle_capital_ship",
                         "count": [7, 7],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "trader_heavy_gauss_slugs",
                                 "trader_missile_guidance_computer",
@@ -300,6 +279,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_colony_capital_ship",
                         "count": [7, 7],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
@@ -312,6 +292,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_support_capital_ship",
                         "count": [7, 7],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
@@ -324,6 +305,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_carrier_capital_ship",
                         "count": [7, 7],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "trader_reserve_squadron_hangar",
                                 "trader_missile_guidance_computer",
@@ -336,6 +318,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "unit": "trader_siege_capital_ship",
                         "count": [7, 7],
                         "options": {
+                            "level": 10,
                             "items": [
                                 "trader_heavy_gauss_slugs",
                                 "trader_missile_guidance_computer",
