@@ -229,7 +229,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 1,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -294,7 +294,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 1,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -351,7 +351,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 1,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
@@ -409,7 +409,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 1,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
@@ -467,7 +467,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 3,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
@@ -518,7 +518,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 3,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
@@ -569,7 +569,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 3,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
@@ -629,7 +629,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 5,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -1077,7 +1077,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 5,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -1151,7 +1151,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 5,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
@@ -1225,7 +1225,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 5,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
@@ -1304,7 +1304,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 20,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -1640,7 +1640,7 @@
             },
             {
                 "is_unique_wave": true,
-                "minimum_wave_count": 1,
+                "minimum_wave_count": 5,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -1814,7 +1814,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 34,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -1914,7 +1914,7 @@
             },
             {
                 "is_unique_wave": true,
-                "minimum_wave_count": 5,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
@@ -2108,7 +2108,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 40,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 2,
@@ -2419,7 +2419,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 36,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 3,
@@ -2527,7 +2527,7 @@
                 ]
             },
             {
-                "minimum_wave_count": 45,
+                "minimum_wave_count": 0,
                 "wave_spawn_units": [
                     {
                         "player_index": 1,
@@ -2679,8 +2679,8 @@
                             {
                                 "unit": "trader_starbase",
                                 "count": [
-                                    8,
-                                    8
+                                    3,
+                                    3
                                 ],
                                 "options": {
                                     "level": 10,
@@ -2713,8 +2713,8 @@
                             {
                                 "unit": "trader_population_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
@@ -2734,8 +2734,8 @@
                             {
                                 "unit": "trader_phase_jump_inhibitor_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
@@ -2748,15 +2748,15 @@
                             {
                                 "unit": "trader_gauss_defense_structure",
                                 "count": [
-                                    90,
-                                    90
+                                    60,
+                                    60
                                 ]
                             },
                             {
                                 "unit": "trader_autocannon_defense_structure",
                                 "count": [
-                                    90,
-                                    90
+                                    60,
+                                    60
                                 ]
                             }
                         ]
@@ -2885,972 +2885,6 @@
                             ]
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 75,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 78,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 79,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 80,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 81,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 82,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 83,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 84,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 85,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 86,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 87,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 88,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 89,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 90,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -4067,75 +3101,6 @@
                 {
                     "player_index": 0,
                     "gravity_well_id": 94,
-                    "spawn_units": {
-                        "required_units": [
-                            {
-                                "unit": "trader_civilian_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_military_research_lab_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_population_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_trade_port_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_culture_center_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_exotic_factory_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_metal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            },
-                            {
-                                "unit": "trader_crystal_extractor_structure",
-                                "count": [
-                                    10,
-                                    10
-                                ]
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "faction_allowed": "dlc_trader_loyalist",
-            "faction_spawn_units": [
-                {
-                    "player_index": 0,
-                    "gravity_well_id": 95,
                     "spawn_units": {
                         "required_units": [
                             {
@@ -4837,160 +3802,6 @@
     ],
     "planets": [
         {
-            "gravity_well_id": 75,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 78,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 79,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 80,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 81,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 82,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 83,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 84,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 85,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 86,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 87,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 88,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 89,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 90,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
             "gravity_well_id": 91,
             "starting_track_levels": {
                 "surveying": 5,
@@ -5025,17 +3836,6 @@
         },
         {
             "gravity_well_id": 94,
-            "starting_track_levels": {
-                "surveying": 5,
-                "logistics": 5,
-                "defense": 5,
-                "commerce": 5,
-                "mining": 5,
-                "research": 5
-            }
-        },
-        {
-            "gravity_well_id": 95,
             "starting_track_levels": {
                 "surveying": 5,
                 "logistics": 5,

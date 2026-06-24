@@ -6,8 +6,8 @@
             "id": 0,
             "filling_name": "random_star",
             "position": [
-                -995.280518,
-                2502.273926
+                -200.083939,
+                2500.64209
             ],
             "rotation": 147.962357,
             "chance_of_retrograde_orbit": 1.0,
@@ -20,8 +20,8 @@
                     "id": 2,
                     "filling_name": "terran_planet_lilly",
                     "position": [
-                        -1103.566284,
-                        2502.273926
+                        -398.330566,
+                        2501.269287
                     ],
                     "ownership": {
                         "player_index": 0
@@ -32,294 +32,28 @@
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
                     "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 75,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1898.234497,
-                        2502.273926
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 11,
-                    "filling_name": "random_space_junk_fixture",
-                    "position": [
-                        -899.026489,
-                        2499.867432
-                    ],
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
                     "has_artifact": true
                 },
                 {
                     "id": 12,
                     "filling_name": "random_radiation_storm_fixture",
                     "position": [
-                        -797.959717,
-                        2499.867432
+                        -298.614807,
+                        2501.593994
                     ],
                     "orbit_speed_scalar": 0.0,
                     "ignore_orbit_overlap_checks": true,
                     "chance_of_first_planet_bonus": 1.0,
                     "chance_of_second_planet_bonus": 1.0,
                     "chance_of_loot": 1.0,
-                    "has_artifact": true
-                },
-                {
-                    "id": 78,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1199.82019,
-                        2550.400879
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 79,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1202.226562,
-                        2446.927734
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 80,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1310.512329,
-                        2610.55957
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 81,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1307.037598,
-                        2509.192627
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 82,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1303.293335,
-                        2393.988037
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 83,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1404.359985,
-                        2649.061035
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 84,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1404.359985,
-                        2552.807129
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 85,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1399.547363,
-                        2454.146729
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 86,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1404.359985,
-                        2348.267334
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 87,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1503.020386,
-                        2598.527832
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 88,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1500.614014,
-                        2499.867432
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 89,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1503.020386,
-                        2398.800781
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 90,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1503.020386,
-                        2300.140381
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
                     "has_artifact": true
                 },
                 {
                     "id": 91,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1604.087158,
-                        2651.467529
+                        -445.991943,
+                        2420.949951
                     ],
                     "ownership": {
                         "player_index": 0
@@ -336,8 +70,8 @@
                     "id": 92,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1604.087158,
-                        2552.807129
+                        -555.360352,
+                        2417.961914
                     ],
                     "ownership": {
                         "player_index": 0
@@ -354,8 +88,8 @@
                     "id": 93,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1601.680664,
-                        2451.740479
+                        -347.51001,
+                        2421.820557
                     ],
                     "ownership": {
                         "player_index": 0
@@ -372,26 +106,8 @@
                     "id": 94,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1601.680664,
-                        2353.080078
-                    ],
-                    "ownership": {
-                        "player_index": 0
-                    },
-                    "orbit_speed_scalar": 0.0,
-                    "ignore_orbit_overlap_checks": true,
-                    "chance_of_first_planet_bonus": 1.0,
-                    "chance_of_second_planet_bonus": 1.0,
-                    "chance_of_loot": 1.0,
-                    "loot_level": 2,
-                    "has_artifact": true
-                },
-                {
-                    "id": 95,
-                    "filling_name": "magnetic_planet_lilly",
-                    "position": [
-                        -1495.80127,
-                        2699.594482
+                        -357.932098,
+                        2584.169922
                     ],
                     "ownership": {
                         "player_index": 0
@@ -408,8 +124,8 @@
                     "id": 96,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1700.341064,
-                        2600.934082
+                        -392.608398,
+                        2336.674561
                     ],
                     "ownership": {
                         "player_index": 0
@@ -426,8 +142,8 @@
                     "id": 97,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1702.747437,
-                        2502.273926
+                        -563.592651,
+                        2585.560791
                     ],
                     "ownership": {
                         "player_index": 0
@@ -444,8 +160,8 @@
                     "id": 98,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1702.747437,
-                        2401.207031
+                        -402.489288,
+                        2658.431641
                     ],
                     "ownership": {
                         "player_index": 0
@@ -462,8 +178,8 @@
                     "id": 99,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1796.595093,
-                        2547.994385
+                        -511.966736,
+                        2503.803223
                     ],
                     "ownership": {
                         "player_index": 0
@@ -480,8 +196,8 @@
                     "id": 100,
                     "filling_name": "magnetic_planet_lilly",
                     "position": [
-                        -1794.188721,
-                        2451.740479
+                        -461.415222,
+                        2584.701904
                     ],
                     "ownership": {
                         "player_index": 0
@@ -558,11 +274,6 @@
     ],
     "phase_lanes": [
         {
-            "id": 43,
-            "node_a": 11,
-            "node_b": 12
-        },
-        {
             "id": 55,
             "node_a": 4,
             "node_b": 1
@@ -578,69 +289,9 @@
             "node_b": 5
         },
         {
-            "id": 73,
-            "node_a": 11,
-            "node_b": 0
-        },
-        {
             "id": 102,
             "node_a": 98,
             "node_b": 100
-        },
-        {
-            "id": 103,
-            "node_a": 98,
-            "node_b": 94
-        },
-        {
-            "id": 104,
-            "node_a": 94,
-            "node_b": 90
-        },
-        {
-            "id": 105,
-            "node_a": 90,
-            "node_b": 86
-        },
-        {
-            "id": 106,
-            "node_a": 86,
-            "node_b": 82
-        },
-        {
-            "id": 107,
-            "node_a": 82,
-            "node_b": 79
-        },
-        {
-            "id": 110,
-            "node_a": 78,
-            "node_b": 80
-        },
-        {
-            "id": 111,
-            "node_a": 80,
-            "node_b": 83
-        },
-        {
-            "id": 112,
-            "node_a": 83,
-            "node_b": 95
-        },
-        {
-            "id": 113,
-            "node_a": 95,
-            "node_b": 91
-        },
-        {
-            "id": 114,
-            "node_a": 91,
-            "node_b": 96
-        },
-        {
-            "id": 115,
-            "node_a": 96,
-            "node_b": 99
         },
         {
             "id": 116,
@@ -653,214 +304,119 @@
             "node_b": 97
         },
         {
-            "id": 119,
-            "node_a": 97,
-            "node_b": 92
-        },
-        {
-            "id": 120,
-            "node_a": 92,
-            "node_b": 87
-        },
-        {
-            "id": 121,
-            "node_a": 87,
-            "node_b": 83
-        },
-        {
-            "id": 122,
-            "node_a": 84,
-            "node_b": 81
-        },
-        {
-            "id": 123,
-            "node_a": 81,
-            "node_b": 79
-        },
-        {
-            "id": 124,
-            "node_a": 78,
-            "node_b": 81
-        },
-        {
-            "id": 125,
-            "node_a": 80,
-            "node_b": 81
-        },
-        {
-            "id": 126,
-            "node_a": 81,
-            "node_b": 85
-        },
-        {
-            "id": 127,
-            "node_a": 85,
-            "node_b": 84
-        },
-        {
-            "id": 129,
-            "node_a": 89,
-            "node_b": 88
-        },
-        {
-            "id": 130,
-            "node_a": 88,
-            "node_b": 87
-        },
-        {
-            "id": 131,
-            "node_a": 87,
-            "node_b": 95
-        },
-        {
-            "id": 132,
-            "node_a": 88,
-            "node_b": 84
-        },
-        {
-            "id": 133,
-            "node_a": 84,
-            "node_b": 83
-        },
-        {
-            "id": 134,
-            "node_a": 80,
-            "node_b": 84
-        },
-        {
-            "id": 135,
-            "node_a": 85,
-            "node_b": 88
-        },
-        {
-            "id": 136,
-            "node_a": 88,
-            "node_b": 93
-        },
-        {
-            "id": 137,
-            "node_a": 93,
-            "node_b": 98
-        },
-        {
-            "id": 138,
-            "node_a": 98,
-            "node_b": 97
-        },
-        {
             "id": 139,
             "node_a": 97,
             "node_b": 99
         },
         {
-            "id": 140,
-            "node_a": 96,
-            "node_b": 97
-        },
-        {
-            "id": 141,
-            "node_a": 97,
-            "node_b": 93
-        },
-        {
-            "id": 142,
-            "node_a": 93,
-            "node_b": 94
-        },
-        {
-            "id": 143,
-            "node_a": 94,
-            "node_b": 89
-        },
-        {
-            "id": 144,
-            "node_a": 89,
-            "node_b": 90
-        },
-        {
-            "id": 145,
-            "node_a": 86,
-            "node_b": 89
-        },
-        {
-            "id": 146,
-            "node_a": 89,
-            "node_b": 93
-        },
-        {
-            "id": 147,
-            "node_a": 93,
-            "node_b": 92
-        },
-        {
-            "id": 148,
-            "node_a": 92,
-            "node_b": 96
-        },
-        {
-            "id": 149,
-            "node_a": 91,
-            "node_b": 92
-        },
-        {
-            "id": 150,
-            "node_a": 92,
-            "node_b": 88
-        },
-        {
-            "id": 151,
-            "node_a": 89,
-            "node_b": 85
-        },
-        {
-            "id": 152,
-            "node_a": 85,
-            "node_b": 86
-        },
-        {
-            "id": 153,
-            "node_a": 82,
-            "node_b": 85
-        },
-        {
-            "id": 154,
-            "node_a": 81,
-            "node_b": 82
-        },
-        {
-            "id": 155,
-            "node_a": 84,
-            "node_b": 87
-        },
-        {
-            "id": 156,
-            "node_a": 87,
-            "node_b": 91
-        },
-        {
-            "id": 157,
+            "id": 168,
             "node_a": 2,
-            "node_b": 78
+            "node_b": 100
         },
         {
-            "id": 158,
+            "id": 169,
             "node_a": 2,
-            "node_b": 79
-        },
-        {
-            "id": 159,
-            "node_a": 75,
             "node_b": 99
         },
         {
-            "id": 160,
-            "node_a": 100,
-            "node_b": 75
+            "id": 170,
+            "node_a": 12,
+            "node_b": 2
         },
         {
-            "id": 161,
+            "id": 171,
+            "node_a": 93,
+            "node_b": 2
+        },
+        {
+            "id": 172,
             "node_a": 2,
-            "node_b": 0
+            "node_b": 91
+        },
+        {
+            "id": 173,
+            "node_a": 91,
+            "node_b": 93
+        },
+        {
+            "id": 174,
+            "node_a": 94,
+            "node_b": 2
+        },
+        {
+            "id": 175,
+            "node_a": 94,
+            "node_b": 100
+        },
+        {
+            "id": 176,
+            "node_a": 99,
+            "node_b": 91
+        },
+        {
+            "id": 177,
+            "node_a": 92,
+            "node_b": 2
+        },
+        {
+            "id": 178,
+            "node_a": 92,
+            "node_b": 91
+        },
+        {
+            "id": 179,
+            "node_a": 92,
+            "node_b": 99
+        },
+        {
+            "id": 180,
+            "node_a": 98,
+            "node_b": 94
+        },
+        {
+            "id": 181,
+            "node_a": 98,
+            "node_b": 2
+        },
+        {
+            "id": 182,
+            "node_a": 96,
+            "node_b": 2
+        },
+        {
+            "id": 183,
+            "node_a": 2,
+            "node_b": 97
+        },
+        {
+            "id": 184,
+            "node_a": 0,
+            "node_b": 12
+        },
+        {
+            "id": 185,
+            "node_a": 96,
+            "node_b": 91
+        },
+        {
+            "id": 186,
+            "node_a": 96,
+            "node_b": 93
+        },
+        {
+            "id": 187,
+            "node_a": 96,
+            "node_b": 92
+        },
+        {
+            "id": 188,
+            "node_a": 92,
+            "node_b": 97
+        },
+        {
+            "id": 189,
+            "node_a": 97,
+            "node_b": 98
         }
     ]
 }

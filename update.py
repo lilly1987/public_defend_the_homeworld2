@@ -154,7 +154,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_starbase",
-                        "count": [10-2, 10-2],
+                        "count": [5-2, 5-2],
                         # "count": [25-2, 25-2],
                         # "count": [60-2, 60-2],
                         # "count": [90-2, 90-2],
@@ -184,8 +184,8 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         "count": [10, 10]
                     },
                     {
-                        "unit": "trader_population_structure",
-                        "count": [10, 10]
+                        "unit": "trader_population_structure",# 궤도 환승 허브
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_trade_port_structure",
@@ -197,7 +197,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_phase_jump_inhibitor_structure",
-                        "count": [10, 10]
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_retrofit_bay_structure",
@@ -208,8 +208,8 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_gauss_defense_structure",
-                        # "count": [60, 60]
-                        "count": [90, 90]
+                        "count": [60, 60]
+                        # "count": [90, 90]
                         # "count": [10, 10]
                         # "count": [25, 25]
                         # "count": [50, 50]
@@ -220,8 +220,8 @@ starting_units_to_any_player_and_gravity_well_int=    [
                         # "count": [25, 25]
                         # "count": [50, 50]
                         # "count": [36, 36]
-                        # "count": [60, 60]
-                        "count": [90, 90]
+                        "count": [60, 60]
+                        # "count": [90, 90]
                     },
 
                     ]
