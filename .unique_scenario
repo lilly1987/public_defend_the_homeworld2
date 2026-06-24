@@ -2783,8 +2783,42 @@
                                 {
                                     "unit": "dlc2_trader_loyalist_super_capital_ship",
                                     "count": [
-                                        3,
-                                        3
+                                        1,
+                                        1
+                                    ],
+                                    "options": {
+                                        "items": [
+                                            "power_core_relic_ship_artifact",
+                                            "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                            "trader_missile_guidance_computer",
+                                            "weapon_symbiote_ship_artifact",
+                                            "trader_reserve_squadron_hangar",
+                                            "trader_targeting_array"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "unit": "dlc2_trader_loyalist_super_capital_ship",
+                                    "count": [
+                                        1,
+                                        1
+                                    ],
+                                    "options": {
+                                        "items": [
+                                            "power_core_relic_ship_artifact",
+                                            "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                            "trader_missile_guidance_computer",
+                                            "weapon_symbiote_ship_artifact",
+                                            "trader_reserve_squadron_hangar",
+                                            "trader_targeting_array"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "unit": "dlc2_trader_loyalist_super_capital_ship",
+                                    "count": [
+                                        1,
+                                        1
                                     ],
                                     "options": {
                                         "items": [
@@ -4545,12 +4579,12 @@
                         {
                             "domain": "civilian",
                             "unlocked_tier": 4,
-                            "unlock_all_research_through_tier": 4
+                            "unlock_all_research_through_tier": 5
                         },
                         {
                             "domain": "military",
                             "unlocked_tier": 4,
-                            "unlock_all_research_through_tier": 4
+                            "unlock_all_research_through_tier": 5
                         }
                     ],
                     "other_unlocked_research": [

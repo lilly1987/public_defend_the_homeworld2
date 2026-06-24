@@ -244,7 +244,35 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [3, 3],
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "power_core_relic_ship_artifact",
+                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                "trader_missile_guidance_computer",
+                                "weapon_symbiote_ship_artifact",
+                                "trader_reserve_squadron_hangar",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "dlc2_trader_loyalist_super_capital_ship",
+                        "count": [1, 1],
+                        "options": {
+                            "items": [
+                                "power_core_relic_ship_artifact",
+                                "dlc2_trader_loyalist_super_capital_ship_unlock_missile_weapon",
+                                "trader_missile_guidance_computer",
+                                "weapon_symbiote_ship_artifact",
+                                "trader_reserve_squadron_hangar",
+                                "trader_targeting_array"
+                            ]
+                        }
+                    },
+                    {
+                        "unit": "dlc2_trader_loyalist_super_capital_ship",
+                        "count": [1, 1],
                         "options": {
                             "items": [
                                 "power_core_relic_ship_artifact",
