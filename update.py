@@ -43,57 +43,57 @@ starting_units_to_any_player_and_gravity_well=        {
                             {
                                 "unit": "trader_civilian_research_lab_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_military_research_lab_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_population_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_trade_port_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_culture_center_structure",# 문화
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_exotic_factory_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_metal_extractor_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             },
                             {
                                 "unit": "trader_crystal_extractor_structure",
                                 "count": [
-                                    10,
-                                    10
+                                    5,
+                                    5
                                 ]
                             }
 
@@ -177,19 +177,19 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_frigate_factory_structure",
-                        "count": [10, 10]
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_capital_ship_factory_structure",
-                        "count": [10, 10]
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_population_structure",# 궤도 환승 허브
-                        "count": [9, 9]
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_trade_port_structure",
-                        "count": [10, 10]
+                        "count": [5, 5]
                     },
                     {
                         "unit": "trader_loyalist_titan_factory_structure",
