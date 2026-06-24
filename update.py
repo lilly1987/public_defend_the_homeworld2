@@ -27,13 +27,7 @@ PLANET={
         "commerce": 5,
         "mining": 5,
         "research": 5,
-    },
-    # "starting_planet_components": [
-    #     "culture_bonus_planet_artifact",
-    #     "tachyon_comms_relay_planet_artifact",
-    #     "trader_munitions_plant",
-    #     "trader_garrison_recruitment_center",
-    # ],
+    }, 
 }
 
 starting_units_to_any_player_and_gravity_well_EXCLUDED=[2]
@@ -46,27 +40,6 @@ starting_units_to_any_player_and_gravity_well=        {
                     "gravity_well_id": 2,
                     "spawn_units": {
                         "required_units": [
-                            # {
-                            #     "unit": "trader_frigate_factory_structure",
-                            #     "count": [
-                            #         1,
-                            #         1
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_capital_ship_factory_structure",
-                            #     "count": [
-                            #         1,
-                            #         1
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_loyalist_titan_factory_structure",
-                            #     "count": [
-                            #         1,
-                            #         1
-                            #     ]
-                            # },
                             {
                                 "unit": "trader_civilian_research_lab_structure",
                                 "count": [
@@ -109,60 +82,6 @@ starting_units_to_any_player_and_gravity_well=        {
                                     10
                                 ]
                             },
-                            # {
-                            #     "unit": "trader_starbase",
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ],
-                            #     "options": {
-                            #         "items": [
-                            #     "trader_starbase_structural_integrity_0", 
-                            #     "trader_starbase_flak_field", 
-                            #     "trader_starbase_docking_booms", 
-                            #     "trader_starbase_unlock_torpedo_weapon", 
-                            #     "trader_starbase_stun_torpedo", 
-                            #     "trader_starbase_unlock_beam_weapon", 
-                            #     "trader_starbase_hangar_0", 
-                            #     "trader_starbase_planetary_shield_array"
-                            #         ]
-                            #     }
-                            # },
-                            # {
-                            #     "unit": "trader_phase_jump_inhibitor_structure", # 억제
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_retrofit_bay_structure", # 개조
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_gauss_defense_structure",
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_hangar_defense_structure",
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ]
-                            # },
-                            # {
-                            #     "unit": "trader_autocannon_defense_structure",
-                            #     "count": [
-                            #         10,
-                            #         10
-                            #     ]
-                            # },
                             {
                                 "unit": "trader_metal_extractor_structure",
                                 "count": [
@@ -233,7 +152,9 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_starbase",
-                        "count": [60-2, 60-2],
+                        "count": [10-2, 10-2],
+                        # "count": [25-2, 25-2],
+                        # "count": [60-2, 60-2],
                         # "count": [90-2, 90-2],
                         "options": {
                             "items": [
@@ -253,19 +174,19 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_frigate_factory_structure",
-                        "count": [6, 6]
+                        "count": [10, 10]
                     },
                     {
                         "unit": "trader_capital_ship_factory_structure",
-                        "count": [6, 6]
+                        "count": [10, 10]
                     },
                     {
                         "unit": "trader_population_structure",
-                        "count": [6, 6]
+                        "count": [10, 10]
                     },
                     {
                         "unit": "trader_trade_port_structure",
-                        "count": [6, 6]
+                        "count": [10, 10]
                     },
                     {
                         "unit": "trader_loyalist_titan_factory_structure",
@@ -273,19 +194,30 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_phase_jump_inhibitor_structure",
-                        "count": [6, 6]
+                        "count": [10, 10]
                     },
                     {
                         "unit": "trader_retrofit_bay_structure",
-                        "count": [36, 36]
+                        # "count": [10, 10]
+                        # "count": [25, 25]
+                        # "count": [50, 50]
+                        "count": [90, 90]
                     },
                     {
                         "unit": "trader_gauss_defense_structure",
+                        # "count": [60, 60]
                         "count": [90, 90]
-                        # "count": [36, 36]
+                        # "count": [10, 10]
+                        # "count": [25, 25]
+                        # "count": [50, 50]
                     },
                     {
                         "unit": "trader_autocannon_defense_structure",
+                        # "count": [10, 10]
+                        # "count": [25, 25]
+                        # "count": [50, 50]
+                        # "count": [36, 36]
+                        # "count": [60, 60]
                         "count": [90, 90]
                     },
 
@@ -312,7 +244,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "dlc2_trader_loyalist_super_capital_ship",
-                        "count": [1, 1],
+                        "count": [3, 3],
                         "options": {
                             "items": [
                                 "power_core_relic_ship_artifact",
@@ -326,7 +258,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_battle_capital_ship",
-                        "count": [10, 10],
+                        "count": [7, 7],
                         "options": {
                             "items": [
                                 "trader_heavy_gauss_slugs",
@@ -338,7 +270,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_colony_capital_ship",
-                        "count": [10, 10],
+                        "count": [7, 7],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -350,7 +282,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_support_capital_ship",
-                        "count": [10, 10],
+                        "count": [7, 7],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -362,7 +294,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_carrier_capital_ship",
-                        "count": [10, 10],
+                        "count": [7, 7],
                         "options": {
                             "items": [
                                 "trader_reserve_squadron_hangar",
@@ -374,7 +306,7 @@ starting_units_to_any_player_and_gravity_well_int=    [
                     },
                     {
                         "unit": "trader_siege_capital_ship",
-                        "count": [10, 10],
+                        "count": [7, 7],
                         "options": {
                             "items": [
                                 "trader_heavy_gauss_slugs",
